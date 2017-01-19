@@ -7,3 +7,4 @@ exclude_from_nav: false
 ---
 
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
+* [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
