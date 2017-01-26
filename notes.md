@@ -8,3 +8,4 @@ exclude_from_nav: false
 
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
+* [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
