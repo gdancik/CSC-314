@@ -12,3 +12,4 @@ exclude_from_nav: false
 * [Python Programming Basics]({{ site.baseurl }}/data/notes/PythonBasics.zip)
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Advanced Python Programming]({{ site.baseurl }}/data/notes/PythonAdvanced.zip)
+* [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
