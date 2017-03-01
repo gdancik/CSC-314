@@ -10,4 +10,7 @@ exclude_from_nav: false
 * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf) (Due: Monday, 2/6) 
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Monday, 2/13) 
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.pdf) (Due: Wednesday, 2/15) 
+
+***
+* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GeneBank.pdf) (Due: Friday, 3/03) 
  
