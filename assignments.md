@@ -14,4 +14,4 @@ exclude_from_nav: false
 
 ***
  
-* [Lab #6 - GenPept]({{ site.baseurl }}/data/hw/Lab5_GenPept.pdf) (Due: Monday, 3/06) 
+* [Lab #6 - GenPept]({{ site.baseurl }}/data/hw/GenPept.pdf) (Due: Monday, 3/06) 
