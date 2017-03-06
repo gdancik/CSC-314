@@ -14,3 +14,4 @@ exclude_from_nav: false
 * [Advanced Python Programming]({{ site.baseurl }}/data/notes/PythonAdvanced.zip)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
+* [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
