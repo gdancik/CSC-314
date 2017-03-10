@@ -14,4 +14,4 @@ exclude_from_nav: false
 * [Lab #6 - GenPept]({{ site.baseurl }}/data/hw/GenPept.pdf) (Due: Monday, 3/06) 
 
 ***
-* [Lab #7 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Friday, 3/10) 
+* [Lab #7 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Monday, 3/20) 
