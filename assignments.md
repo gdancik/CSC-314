@@ -15,3 +15,4 @@ exclude_from_nav: false
 
 ***
 * [Lab #7 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Monday, 3/20) 
+* [Lab #8 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.py) (Due: Friday, 3/24) 
