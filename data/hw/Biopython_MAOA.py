@@ -14,7 +14,7 @@ from Bio import SeqIO # to parse Seq data
 from Bio.Seq import Seq # for Seq
 
 # get 'file' by retriving text through URL 
-url = "http://bioinformatics.easternct.edu/CSC-314/MAOA.gb.txt"
+url = "https://raw.githubusercontent.com/gdancik/CSC-314/master/data/hw/MAOA.gb.txt"
 file = urllib2.urlopen(url)
 txt = file.read() # convert contents to string
 
@@ -51,10 +51,10 @@ for feature in seq_record.features :
 
   # print out exon 13 #
   if feature.type == "exon": 
-	if feature.qualifiers['number'][0] == '13':
-    		print "=================== Exon 13 =================="
-    		print feature 
-		print
+    if feature.qualifiers['number'][0] == '13':
+      print "=================== Exon 13 =================="
+      print feature 
+      print
 
   # print out CDS location #
   if feature.type == "CDS": 
