@@ -15,4 +15,6 @@ exclude_from_nav: false
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
-* [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
+* Biopython Examples
+	* [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
+	* [More Python]({{ site.baseurl }}/data/notes/morePython.zip)
