@@ -18,5 +18,6 @@ exclude_from_nav: false
 
 ***
 * [Cancer Biology Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Monday, 4/17; submit through [Blackboard](http://easternct.blackboard.com))
-* Lab #10 - BLAST [Assignment]({{ site.baseurl }}/data/hw/Lab10_BLAST.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) (Due: Monday, 4/17)
+* Lab #10 - BLAST ([Assignment]({{ site.baseurl }}/data/hw/Lab10_BLAST.pdf)|
+[sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt)) (Due: Monday, 4/17)
 
