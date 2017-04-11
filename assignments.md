@@ -17,4 +17,5 @@ exclude_from_nav: false
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.pdf) (Due: Friday, 3/31) 
 
 ***
-* [Cancer Biology Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Monday, 4/17) 
+* [Cancer Biology Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Monday, 4/17; submit through [Blackboard](http://easternct.blackboard.com))
+
