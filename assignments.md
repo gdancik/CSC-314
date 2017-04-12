@@ -17,7 +17,8 @@ exclude_from_nav: false
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.pdf) (Due: Friday, 3/31) 
 
 ***
-* [Cancer Biology Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Monday, 4/17; submit through [Blackboard](http://easternct.blackboard.com))
+* [Cancer Biology Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Monday, 4/17; submit through [Blackboard](http://easternct.blackboard.com)) 
+	* [c_elegans_orthologs.txt]({{ site.baseurl }}/data/hw/c_elegans_orthologs.txt) 
 * Lab #10 - BLAST ([Assignment]({{ site.baseurl }}/data/hw/Lab10_BLAST.pdf)|
 [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt)) (Due: Monday, 4/17)
 
