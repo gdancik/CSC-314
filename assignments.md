@@ -22,4 +22,4 @@ exclude_from_nav: false
 [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt)) (Due: Monday, 4/17)
 
 ***
-* [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/17; submit through [Blackboard](http://easternct.blackboard.com)) 
+* [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Friday, 4/21; submit through [Blackboard](http://easternct.blackboard.com)) 
