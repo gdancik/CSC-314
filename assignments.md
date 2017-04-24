@@ -20,6 +20,9 @@ exclude_from_nav: false
 	* [c_elegans_orthologs.txt]({{ site.baseurl }}/data/hw/c_elegans_orthologs.txt) 
 * Lab #10 - BLAST ([Assignment]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) |
 [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt)) (Due: Monday, 4/17)
+* [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
 
 ***
-* [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
+* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
+[Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) 
+

@@ -21,3 +21,4 @@ exclude_from_nav: false
 	* [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
+* [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
