@@ -23,6 +23,8 @@ exclude_from_nav: false
 * [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
 
 ***
+* Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.pdf) |
+[Preview]({{ site.baseurl }}/data/hw/GEO-preview.pdf)) (Due: Monday, 5/1)
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
 [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) 
 
