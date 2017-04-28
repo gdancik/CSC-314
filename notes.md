@@ -22,3 +22,4 @@ exclude_from_nav: false
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
+* [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
