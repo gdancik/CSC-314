@@ -25,5 +25,5 @@ exclude_from_nav: false
 * Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
 [Preview]({{ site.baseurl }}/data/hw/GEO-preview.docx)) (Due: Monday, 5/1)
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
-[Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) 
-
+[Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
+	* [Gene Prediction Test Sequences]({{ site.baseurl }}/data/hw/test_sequences.txt)  
