@@ -3,9 +3,9 @@ layout: page
 title: Assignments 
 permalink: /assignments/
 order: 3
-exclude_from_nav: false
+exclude_from_nav: true
 ---
-
+{% comment %}
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.pdf) (Due: Friday, 1/27) 
 * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf) (Due: Monday, 2/6) 
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Monday, 2/13) 
@@ -20,6 +20,7 @@ exclude_from_nav: false
 * Lab #10 - BLAST ([Assignment]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) |
 [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt)) (Due: Monday, 4/17)
 * [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
+{% endcomment %}
 
 ***
 * Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
