@@ -3,8 +3,9 @@ layout: page
 title: Assignments 
 permalink: /assignments/
 order: 3
-exclude_from_nav: true
+exclude_from_nav: false
 ---
+* Watch the You Tube videos covering genes, SNPs, and where your genes come from linked at the end of the <a href = "../notes/">Course Introduction</a> notes
 {% comment %}
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.pdf) (Due: Friday, 1/27) 
 * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf) (Due: Monday, 2/6) 
@@ -20,7 +21,6 @@ exclude_from_nav: true
 * Lab #10 - BLAST ([Assignment]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) |
 [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt)) (Due: Monday, 4/17)
 * [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% endcomment %}
 
 ***
 * Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
@@ -28,3 +28,4 @@ exclude_from_nav: true
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
 [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
 	* [Gene Prediction Test Sequences]({{ site.baseurl }}/data/hw/test_sequences.txt)  
+{% endcomment %}
