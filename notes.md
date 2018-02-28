@@ -13,8 +13,8 @@ exclude_from_nav: false
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Advanced Python Programming]({{ site.baseurl }}/data/notes/PythonAdvanced.zip)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
-{% comment %}
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
+{% comment %}
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * Biopython Examples
 	* [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
