@@ -8,12 +8,12 @@ exclude_from_nav: false
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked at the end of the <a href = "../notes/">Course Introduction</a> notes
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.pdf) (Due: <strike>Monday, 1/29</strike> Wednesday, 1/31) 
 * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf) (Due: Wednesday, 2/7) 
-<hr>
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Wednesday, 2/21) 
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.pdf) (Due: Wednesday, 2/21) 
+<hr>
+* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Monday, 5/03) 
+* [Lab #6 - GenPept]({{ site.baseurl }}/data/hw/GenPept.pdf) (Due: Wednesday, 3/07) 
 {% comment %}
-* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Friday, 3/03) 
-* [Lab #6 - GenPept]({{ site.baseurl }}/data/hw/GenPept.pdf) (Due: Monday, 3/06) 
 * [Lab #7 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Monday, 3/20) 
 * [Lab #8 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.py) (Due: Monday, 3/27) 
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.pdf) (Due: Friday, 3/31) 
