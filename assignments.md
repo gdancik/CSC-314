@@ -11,7 +11,7 @@ exclude_from_nav: false
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Wednesday, 2/21) 
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.pdf) (Due: Wednesday, 2/21) 
 <hr>
-* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Monday, 5/03) 
+* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Monday, 3/05) 
 * [Lab #6 - GenPept]({{ site.baseurl }}/data/hw/GenPept.pdf) (Due: Wednesday, 3/07) 
 {% comment %}
 * [Lab #7 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Monday, 3/20) 
