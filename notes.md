@@ -15,12 +15,12 @@ exclude_from_nav: false
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
+* [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
+* [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 {% comment %}
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * Biopython Examples
 	* [More Python]({{ site.baseurl }}/data/notes/morePython.zip)
-	* [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
-* [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
