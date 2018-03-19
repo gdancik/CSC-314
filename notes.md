@@ -17,10 +17,11 @@ exclude_from_nav: false
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
 * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
-{% comment %}
+* [More Python]({{ site.baseurl }}/data/notes/morePython.zip)
+* [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
+{% comment %}
 * Biopython Examples
-	* [More Python]({{ site.baseurl }}/data/notes/morePython.zip)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
