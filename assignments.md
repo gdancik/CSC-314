@@ -15,9 +15,9 @@ exclude_from_nav: false
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.py) (Due: Friday, 3/9) 
 <hr>
 * [Cancer Biology Assignment]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Wednesday, 3/28) 
+* [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Wednesday, 3/28) 
 {% comment %}
 * [Cancer Biology - Methods Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Wednesday, 3/28; submit through [Blackboard](http://easternct.blackboard.com)) 
-* [Lab #7 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Monday, 3/20) 
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.pdf) (Due: Friday, 3/31) 
 	* [c_elegans_orthologs.txt]({{ site.baseurl }}/data/hw/c_elegans_orthologs.txt) 
 * Lab #10 - BLAST ([Assignment]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) |
