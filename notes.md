@@ -20,9 +20,8 @@ exclude_from_nav: false
 * [More Python]({{ site.baseurl }}/data/notes/morePython.zip)
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
-{% comment %}
-* Biopython Examples
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
+{% comment %}
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 {% endcomment %}
