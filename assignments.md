@@ -17,7 +17,8 @@ exclude_from_nav: false
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Wednesday, 3/28) 
 <hr>
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.pdf) (Due: Monday, 4/2) 
-* [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/8 at 5:00 PM) 
+* [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/8 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
+    * In addition, you must e-mail your Cancer Bio group with your final results, and CC me 
 {% comment %}
 * [Cancer Biology - Methods Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Wednesday, 3/28; submit through [Blackboard](http://easternct.blackboard.com)) 
 	* [c_elegans_orthologs.txt]({{ site.baseurl }}/data/hw/c_elegans_orthologs.txt) 
