@@ -20,7 +20,7 @@ exclude_from_nav: false
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/8 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
     * In addition, you must e-mail your Cancer Bio group with your final results, and CC me 
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: Monday, 4/9) 
-    * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt)) 
+    * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 <hr>
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
 [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
