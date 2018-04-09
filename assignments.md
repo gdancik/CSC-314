@@ -19,9 +19,11 @@ exclude_from_nav: false
 <hr>
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/8 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
     * In addition, you must e-mail your Cancer Bio group with your final results, and CC me 
-* [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: Monday, 4/9) 
-    * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 <hr>
+* [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: Wednesday, 4/11) 
+    * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
+* Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
+[Preview]({{ site.baseurl }}/data/hw/GEO-preview.docx)) (Due: Wednesday, 4/11)
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
 [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
     * Piazza Post Due Wednesday, 4/11
@@ -32,7 +34,5 @@ exclude_from_nav: false
 * [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
 
 ***
-* Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
-[Preview]({{ site.baseurl }}/data/hw/GEO-preview.docx)) (Due: Monday, 5/1)
 	* [Gene Prediction Test Sequences]({{ site.baseurl }}/data/hw/test_sequences.txt)  
 {% endcomment %}
