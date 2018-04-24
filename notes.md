@@ -21,7 +21,7 @@ exclude_from_nav: false
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
-{% comment %}
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
+{% comment %}
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 {% endcomment %}
