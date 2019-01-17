@@ -5,4 +5,6 @@ permalink: /info/
 order: 1
 ---
 
-* [Course Syllabus]({{ site.baseurl }}/data/info/csc314-01_spring_2018_syllabus.pdf) 
+* Course Syllabus
+    * [CSC 314-01 (MWF,1:00-1:50)]({{ site.baseurl }}/data/info/csc314-01_spring_2019_syllabus.pdf) 
+    * [CSC 314-02 (MWF,2:00-2:50)]({{ site.baseurl }}/data/info/csc314-02_spring_2019_syllabus.pdf) 
