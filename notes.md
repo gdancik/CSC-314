@@ -12,8 +12,8 @@ exclude_from_nav: false
 * [Python Programming Basics]({{ site.baseurl }}/data/notes/PythonBasics.zip)
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Advanced Python Programming]({{ site.baseurl }}/data/notes/PythonAdvanced.zip)
-{% comment %}
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
+{% comment %}
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
 * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
