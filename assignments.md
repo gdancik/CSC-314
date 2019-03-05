@@ -8,11 +8,11 @@ exclude_from_nav: false
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked at the end of the <a href = "../notes/">Course Introduction</a> notes
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.pdf) (Due: Wednesday, 2/6/19) 
 * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf) (Due: Wednesday, 2/13) 
-<hr>
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 2/22) 
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.pdf) (Due: Wednesday, 2/27) 
+<hr>
+* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Friday, 3/08) 
 {% comment %}
-* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Monday, 3/05) 
 * [Lab #6 - GenPept]({{ site.baseurl }}/data/hw/GenPept.pdf) (Due: Wednesday, 3/07) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.py) (Due: Friday, 3/9) 
 * [Cancer Biology Assignment]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Wednesday, 3/28) 
