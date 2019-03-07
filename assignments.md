@@ -12,8 +12,8 @@ exclude_from_nav: false
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.pdf) (Due: Wednesday, 2/27) 
 <hr>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Friday, 3/08) 
+* [Lab #6 - GenPept]({{ site.baseurl }}/data/hw/ProteinDB.pdf) (Due: Wednesday, 3/27) 
 {% comment %}
-* [Lab #6 - GenPept]({{ site.baseurl }}/data/hw/GenPept.pdf) (Due: Wednesday, 3/07) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.py) (Due: Friday, 3/9) 
 * [Cancer Biology Assignment]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Wednesday, 3/28) 
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Wednesday, 3/28) 
