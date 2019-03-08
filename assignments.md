@@ -10,9 +10,9 @@ exclude_from_nav: false
 * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf) (Due: Wednesday, 2/13) 
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 2/22) 
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.pdf) (Due: Wednesday, 2/27) 
-<hr>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Friday, 3/08) 
-* [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.pdf) (Due: Wednesday, 3/27) 
+<hr>
+* [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.pdf) (Due: Wednesday, 3/20) 
 {% comment %}
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.py) (Due: Friday, 3/9) 
 * [Cancer Biology Assignment]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Wednesday, 3/28) 
