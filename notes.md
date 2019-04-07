@@ -22,8 +22,8 @@ exclude_from_nav: false
     * [List Comprehension]({{ site.baseurl }}/data/notes/list_comprehension.py)
 * [AACR Highlights]({{ site.baseurl }}/data/notes/AACR_Highlights_2019.pdf)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
-{% comment %}
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
+{% comment %}
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
     * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
