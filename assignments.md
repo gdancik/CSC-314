@@ -19,9 +19,9 @@ exclude_from_nav: false
     * In addition, you must e-mail your Cancer Bio group with your final results, and CC me 
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Monday, 4/15) 
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.pdf) (Due: Monday, 4/22) 
-{% comment %}
-* [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: Wednesday, 4/11) 
+* [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: in-class lab, 4/17) 
     * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
+{% comment %}
 * Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
 [Preview]({{ site.baseurl }}/data/hw/GEO-preview.docx)) (Due: Wednesday, 4/11)
 * [Lab #12 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Wednesday, 5/02)
