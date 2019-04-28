@@ -17,18 +17,18 @@ exclude_from_nav: false
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
     * In addition, you must e-mail your Cancer Bio group with your final results, and CC me 
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.pdf) (Due: Monday, 4/15) 
-<hr>
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.pdf) (Due: Monday, 4/22) 
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: in-class lab, 4/17) 
     * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
+<hr>
+* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
+[Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
+    * Piazza Post Due Wednesday, 5/1
+    * Project due: 4:00 PM on 5/13 (CSC-314-02) or 5/15 (CSC-314-01)
 {% comment %}
 * Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
 [Preview]({{ site.baseurl }}/data/hw/GEO-preview.docx)) (Due: Wednesday, 4/11)
 * [Lab #12 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Wednesday, 5/02)
-* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
-[Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
-    * Piazza Post Due Wednesday, 4/11
-    * Project due: 5/9 by 4:00 PM
 * [Cancer Biology - Methods Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Wednesday, 3/28; submit through [Blackboard](http://easternct.blackboard.com)) 
 	* [c_elegans_orthologs.txt]({{ site.baseurl }}/data/hw/c_elegans_orthologs.txt) 
 * [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
