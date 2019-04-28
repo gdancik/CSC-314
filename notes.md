@@ -24,7 +24,7 @@ exclude_from_nav: false
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
-{% comment %}
     * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
+{% comment %}
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 {% endcomment %}
