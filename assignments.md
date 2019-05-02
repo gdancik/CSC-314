@@ -21,6 +21,7 @@ exclude_from_nav: false
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: in-class lab, 4/17) 
     * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 <hr>
+* [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Monday, 5/06)
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
 [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
     * Piazza Post Due Wednesday, 5/1
@@ -28,7 +29,6 @@ exclude_from_nav: false
 {% comment %}
 * Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
 [Preview]({{ site.baseurl }}/data/hw/GEO-preview.docx)) (Due: Wednesday, 4/11)
-* [Lab #12 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Wednesday, 5/02)
 * [Cancer Biology - Methods Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Wednesday, 3/28; submit through [Blackboard](http://easternct.blackboard.com)) 
 	* [c_elegans_orthologs.txt]({{ site.baseurl }}/data/hw/c_elegans_orthologs.txt) 
 * [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
