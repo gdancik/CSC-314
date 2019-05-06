@@ -25,6 +25,6 @@ exclude_from_nav: false
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
     * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
-{% comment %}
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
+{% comment %}
 {% endcomment %}
