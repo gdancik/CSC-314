@@ -20,8 +20,8 @@ exclude_from_nav: false
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.pdf) (Due: Monday, 4/22) 
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: in-class lab, 4/17) 
     * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
-<hr>
 * [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Monday, 5/06)
+<hr>
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
 [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
     * Piazza Post Due Wednesday, 5/1
