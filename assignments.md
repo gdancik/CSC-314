@@ -12,10 +12,10 @@ exclude_from_nav: false
 
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.pdf) (Due: Monday, 2/3/20) 
 * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf) (Due: Wednesday, 2/12/20)
-<hr> 
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 2/21/20) 
+<hr> 
+* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.pdf) (Due: Wednesday, 2/26) 
 {% comment %}
-* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.pdf) (Due: Wednesday, 2/27) 
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Friday, 3/08) 
 * [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.pdf) (Due: Wednesday, 3/20) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.py) (Due: Wednesday, 3/27) 
