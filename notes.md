@@ -13,8 +13,8 @@ exclude_from_nav: false
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
-{% comment %}
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
+{% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
