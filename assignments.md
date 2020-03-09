@@ -19,6 +19,10 @@ exclude_from_nav: false
 * [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.pdf) (Due: Wednesday, 3/25/20) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Lab7.ipynb) (Due: Wednesday, 3/25/20)
     * [MAOA.gb.txt]({{ site.baseurl }}/data/hw/MAOA.gb.txt) 
+* [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-COV2.ipynb) (Due: Wednesday, 3/25/20)
+    * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
+
+
 {% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Friday, 3/29) 
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
