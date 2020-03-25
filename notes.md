@@ -15,6 +15,7 @@ exclude_from_nav: false
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
+* [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 {% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
