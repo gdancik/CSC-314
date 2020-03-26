@@ -19,8 +19,8 @@ exclude_from_nav: false
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Lab7.ipynb) (Due: Wednesday, 3/25/20)
     * [MAOA.gb.txt]({{ site.baseurl }}/data/hw/MAOA.gb.txt) 
 * [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-Cov2.ipynb) (Due: Wednesday, 3/25/20)
-<hr> 
     * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
+<hr> 
 * [Lab #9 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab9.zip) (Due: Friday, 04/03/20)
 
 {% comment %}
