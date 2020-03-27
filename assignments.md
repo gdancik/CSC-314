@@ -21,7 +21,7 @@ exclude_from_nav: false
 * [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-Cov2.ipynb) (Due: Wednesday, 3/25/20)
     * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
 <hr> 
-* [Lab #9 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab9.zip) (Due: Friday, 04/03/20)
+* [Lab #9 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab9.zip) (Due: Friday, 04/03/20; submit through [Blackboard](http://easternct.blackboard.com))
 
 {% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Friday, 3/29) 
