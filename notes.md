@@ -16,6 +16,7 @@ exclude_from_nav: false
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
 * [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
+* [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 {% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
@@ -23,7 +24,6 @@ exclude_from_nav: false
     * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
     * [List Comprehension]({{ site.baseurl }}/data/notes/list_comprehension.py)
 * [AACR Highlights]({{ site.baseurl }}/data/notes/AACR_Highlights_2019.pdf)
-* [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
     * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
