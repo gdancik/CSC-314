@@ -18,6 +18,7 @@ exclude_from_nav: false
 * [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
+    * [Dynamic Programming Example]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
 {% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
