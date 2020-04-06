@@ -23,11 +23,11 @@ exclude_from_nav: false
 <hr> 
 * [Lab #9 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab9.zip) (Due: Friday, 04/03/20; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #10 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Monday, 04/06/20; submit through [Blackboard](http://easternct.blackboard.com))
+* [Lab #11 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 04/15/20) 
 {% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Friday, 3/29) 
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
     * In addition, you must e-mail your Cancer Bio group with your final results, and CC me 
-* [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.pdf) (Due: Monday, 4/22) 
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: in-class lab, 4/17) 
     * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 * [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Monday, 5/06)

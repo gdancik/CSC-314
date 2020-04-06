@@ -19,6 +19,7 @@ exclude_from_nav: false
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
+    * [Dynamic Programming Example #2]({{ site.baseurl }}/data/notes/DynamicProgrammingExample2.docx)
 {% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
