@@ -24,6 +24,7 @@ exclude_from_nav: false
 * [Lab #10 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Monday, 04/06/20; submit through [Blackboard](http://easternct.blackboard.com))
 <hr> 
 * [Lab #11 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 04/15/20; submit through [Blackboard](http://easternct.blackboard.com))
+    * [Lab #11 solutions]({{ site.baseurl }}/data/hw/DPSolutions.pdf)
 {% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Friday, 3/29) 
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
