@@ -22,6 +22,7 @@ exclude_from_nav: false
     * [Dynamic Programming Example #2]({{ site.baseurl }}/data/notes/DynamicProgrammingExample2.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
+* [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
 {% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
@@ -29,6 +30,5 @@ exclude_from_nav: false
     * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
     * [List Comprehension]({{ site.baseurl }}/data/notes/list_comprehension.py)
 * [AACR Highlights]({{ site.baseurl }}/data/notes/AACR_Highlights_2019.pdf)
-    * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 {% endcomment %}
