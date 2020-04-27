@@ -22,10 +22,13 @@ exclude_from_nav: false
     * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
 * [Lab #9 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab9.zip) (Due: Friday, 04/03/20; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #10 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Monday, 04/06/20; submit through [Blackboard](http://easternct.blackboard.com))
-<hr> 
 * [Lab #11 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 04/15/20; submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #11 solutions]({{ site.baseurl }}/data/hw/DPSolutions.pdf)
+<hr> 
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
+   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
+    * Sign-up (Due Wednesday, 4/29/20 by 5:00 PM)
+    * Project due date: 4:00 PM on 5/13/20; submit through [Blackboard](http://easternct.blackboard.com)
 {% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Friday, 3/29) 
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
@@ -35,9 +38,6 @@ exclude_from_nav: false
 * [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Monday, 5/06)
 | 
 <hr>
-[Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
-    * Piazza Post Due Wednesday, 5/1
-    * Project due: 4:00 PM on 5/13 (CSC-314-02) or 5/15 (CSC-314-01)
 * Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
 [Preview]({{ site.baseurl }}/data/hw/GEO-preview.docx)) (Due: Wednesday, 4/11)
 * [Cancer Biology - Methods Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Wednesday, 3/28; submit through [Blackboard](http://easternct.blackboard.com)) 
