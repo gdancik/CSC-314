@@ -25,6 +25,7 @@ exclude_from_nav: false
 <hr> 
 * [Lab #11 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 04/15/20; submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #11 solutions]({{ site.baseurl }}/data/hw/DPSolutions.pdf)
+* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
 {% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Friday, 3/29) 
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
@@ -32,8 +33,8 @@ exclude_from_nav: false
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) (Due: in-class lab, 4/17) 
     * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 * [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Monday, 5/06)
+| 
 <hr>
-* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) | 
 [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
     * Piazza Post Due Wednesday, 5/1
     * Project due: 4:00 PM on 5/13 (CSC-314-02) or 5/15 (CSC-314-01)
