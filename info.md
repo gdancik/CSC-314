@@ -6,6 +6,7 @@ order: 1
 ---
 
 * [Course Syllabus]({{ site.baseurl }}/data/info/csc314-01_fall_2020_syllabus.pdf) 
+  * [Schedule a meeting](https://outlook.office365.com/owa/calendar/DrGarrettDancik@myeasternct.onmicrosoft.com/bookings/)
 * [Software installation]({{ site.baseurl }}/data/info/csc314_software.pdf)
 {% comment %}
 * Course Syllabus
