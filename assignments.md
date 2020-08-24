@@ -6,9 +6,8 @@ order: 3
 exclude_from_nav: false
 ---
 
-{% comment %}
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked at the end of the <a href = "../notes/">Course Introduction</a> notes
-{% endcomment %}
+{% comment %}
 
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.pdf) (Due: Monday, 2/3/20) 
 * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf) (Due: Wednesday, 2/12/20)
@@ -29,7 +28,7 @@ exclude_from_nav: false
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
     * Sign-up (Due Wednesday, 4/29/20 by 5:00 PM)
     * Project due date: 4:00 PM on 5/13/20; submit through [Blackboard](http://easternct.blackboard.com)
-{% comment %}
+
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Friday, 3/29) 
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
     * In addition, you must e-mail your Cancer Bio group with your final results, and CC me 
@@ -44,6 +43,5 @@ exclude_from_nav: false
 	* [c_elegans_orthologs.txt]({{ site.baseurl }}/data/hw/c_elegans_orthologs.txt) 
 * [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
 
-***
 	* [Gene Prediction Test Sequences]({{ site.baseurl }}/data/hw/test_sequences.txt)  
 {% endcomment %}

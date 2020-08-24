@@ -7,6 +7,7 @@ exclude_from_nav: false
 ---
  
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
+{% comment %}
 * [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
 * [Python Programming Basics]({{ site.baseurl }}/data/notes/python.zip)
@@ -25,7 +26,6 @@ exclude_from_nav: false
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
 * [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
-{% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * More Python
     * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
