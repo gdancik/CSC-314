@@ -10,6 +10,8 @@ exclude_from_nav: false
 
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked at the end of the <a href = "../notes/">Course Introduction</a> notes
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 9/9/20) 
+* Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/9/2020)
+* For class on Wednesday (9/9/2020), install Python and Jupyter Notebook by following the section "Installing Python and Jupyter Notebook through the Anaconda Distribution" from the Software Installation guide on the [Course Info]({{ site.baseurl }}/info) page. 
 {% comment %}
 * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf) (Due: Wednesday, 2/12/20)
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 2/21/20) 

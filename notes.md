@@ -8,8 +8,8 @@ exclude_from_nav: false
  
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
-{% comment %}
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
+{% comment %}
 * [Python Programming Basics]({{ site.baseurl }}/data/notes/python.zip)
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
