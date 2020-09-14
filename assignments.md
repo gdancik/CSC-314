@@ -13,10 +13,10 @@ exclude_from_nav: false
 * Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/9/2020)
 * For class on Wednesday (9/9/2020), install Python and Jupyter Notebook by following the section "Installing Python and Jupyter Notebook through the Anaconda Distribution" from the Software Installation guide on the [Course Info]({{ site.baseurl }}/info) page. 
 <hr>
-* Lab #2 - DNA and complements (Due: Wednesday, 9/15/2020)
+* Lab #2 - DNA and complements (Due: Wednesday, 9/16/2020)
     * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf)
     * [Lab #2 Notebook]({{ site.baseurl }}/data/hw/Lab2.ipynb) 
-* If you haven't done this, for half credit you may Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/15/2020)
+* If you haven't done this, for half credit you may Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/16/2020)
 
 {% comment %}
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 2/21/20) 
