@@ -16,10 +16,10 @@ exclude_from_nav: false
     * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf)
     * [Lab #2 Notebook]({{ site.baseurl }}/data/hw/Lab2.ipynb) 
 * If you haven't done this, for half credit you may Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/16/2020)
-<hr>
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 9/25/2020) 
+<hr>
+* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 9/30/2020) 
 {% comment %}
-* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.pdf) (Due: Wednesday, 2/26) 
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.pdf) (Due: Friday, 3/06/20) 
 * [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.pdf) (Due: Wednesday, 3/25/20) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Lab7.ipynb) (Due: Wednesday, 3/25/20)
