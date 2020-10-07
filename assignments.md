@@ -20,6 +20,7 @@ exclude_from_nav: false
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 9/30/2020) 
 <hr>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Friday, 10/09/20) 
+* For Friday's class, install BioPython following the Software installation instructions on the Course Info page
 {% comment %}
 * [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.pdf) (Due: Wednesday, 3/25/20) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Lab7.ipynb) (Due: Wednesday, 3/25/20)
