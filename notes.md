@@ -14,8 +14,8 @@ exclude_from_nav: false
 * [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
-{% comment %}
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
+{% comment %}
 * [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
