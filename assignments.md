@@ -18,13 +18,12 @@ exclude_from_nav: false
 * If you haven't done this, for half credit you may Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/16/2020)
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 9/25/2020) 
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 9/30/2020) 
-<hr>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Friday, 10/09/20) 
 * For Friday's class, install BioPython following the Software installation instructions on the Course Info page
+<hr>
+* [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.pdf) (Due: Monday, 10/19/20) 
+* [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 10/21/20)
 {% comment %}
-* [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.pdf) (Due: Wednesday, 3/25/20) 
-* [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Lab7.ipynb) (Due: Wednesday, 3/25/20)
-    * [MAOA.gb.txt]({{ site.baseurl }}/data/hw/MAOA.gb.txt) 
 * [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-Cov2.ipynb) (Due: Wednesday, 3/25/20)
     * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
 * [Lab #9 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab9.zip) (Due: Friday, 04/03/20; submit through [Blackboard](http://easternct.blackboard.com))
