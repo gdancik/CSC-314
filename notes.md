@@ -15,8 +15,8 @@ exclude_from_nav: false
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
-{% comment %}
 * [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
+{% comment %}
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
