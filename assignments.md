@@ -20,8 +20,8 @@ exclude_from_nav: false
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 9/30/2020) 
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Friday, 10/09/20) 
 * For Friday's class, install BioPython following the Software installation instructions on the Course Info page
-<hr>
 * [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Monday, 10/19/20) 
+<hr>
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 10/21/20)
 * [Lab #8 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab8.zip) (Due: Wednesday, 10/29/20)
 {% comment %}
