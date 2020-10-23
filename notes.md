@@ -16,6 +16,7 @@ exclude_from_nav: false
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
 * [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
+* [UCSC Genome Browser]({{ site.baseurl }}/data/notes/UCSC_Genome_Browser.pdf)
 {% comment %}
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
@@ -24,7 +25,6 @@ exclude_from_nav: false
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
-* [UCSC Genome Browser and BioMart]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * More Python
