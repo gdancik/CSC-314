@@ -8,6 +8,14 @@ exclude_from_nav: false
 
 <p style = 'color:red;font-size:104%'>Note: All assignments must be submitted through <a href = "https://easternct.blackboard.com/">Blackboard</a> and are due at the beginning of class (9:00 AM) unless stated otherwise</p>
 
+
+<style>
+.hide {
+  display:none
+}
+</style>
+
+<div id = 'hidden' class = 'hide' markdown="1">
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked at the end of the <a href = "../notes/">Course Introduction</a> notes
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 9/9/20) 
 * Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/9/2020)
@@ -18,6 +26,7 @@ exclude_from_nav: false
 * If you haven't done this, for half credit you may Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/16/2020)
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 9/25/2020) 
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 9/30/2020) 
+</div>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Friday, 10/09/20) 
 * For Friday's class, install BioPython following the Software installation instructions on the Course Info page
 * [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Monday, 10/19/20) 
@@ -52,3 +61,21 @@ exclude_from_nav: false
 
 	* [Gene Prediction Test Sequences]({{ site.baseurl }}/data/hw/test_sequences.txt)  
 {% endcomment %}
+
+
+
+<br><br>
+<center>
+<div id = 'clicker'>
+<a href = '#' style='font-size:120%' onclick = 'viewAll();'>Click to view all assignments</a>
+<script>
+function viewAll() {
+    document.getElementById('hidden').classList.remove('hide');
+    document.getElementById('clicker').classList.add('hide');
+    document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
+}
+</script>
+
+
+</div>
+
