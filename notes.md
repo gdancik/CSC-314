@@ -17,8 +17,8 @@ exclude_from_nav: false
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
 * [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [UCSC Genome Browser]({{ site.baseurl }}/data/notes/UCSC_Genome_Browser.pdf)
-{% comment %}
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
+{% comment %}
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
     * [Dynamic Programming Example #2]({{ site.baseurl }}/data/notes/DynamicProgrammingExample2.docx)
