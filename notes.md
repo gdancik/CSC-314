@@ -18,9 +18,9 @@ exclude_from_nav: false
 * [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [UCSC Genome Browser]({{ site.baseurl }}/data/notes/UCSC_Genome_Browser.pdf)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
-{% comment %}
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
+{% comment %}
     * [Dynamic Programming Example #2]({{ site.baseurl }}/data/notes/DynamicProgrammingExample2.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
