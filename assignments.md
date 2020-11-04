@@ -34,10 +34,10 @@ exclude_from_nav: false
 * [Lab #8 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab8.zip) (Due: Wednesday, 10/28/20)
 <hr>
 * [Lab #9 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Wednesday, 11/04/20)
+* [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Monday, 11/09/20)
 {% comment %}
 * [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-Cov2.ipynb) (Due: Wednesday, 3/25/20)
     * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
-* [Lab #11 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 04/15/20; submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #11 solutions]({{ site.baseurl }}/data/hw/DPSolutions.pdf)
 <hr> 
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
