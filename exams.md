@@ -10,6 +10,8 @@ order: 4
 - Exam I
     * [Exam I Review]({{ site.baseurl }}/data/exams/ExamIReview.pdf)
     * Exam I is posted on [Blackboard](https://easternct.blackboard.com/)
+- Exam II
+    * [Biopython Practice]({{ site.baseurl }}/data/exams/BiopythonPractice.zip)
 {% comment %}
 * [Exam II Practice]({{ site.baseurl }}/data/exams/ExamIIPractice.pdf)
 {% endcomment %}
