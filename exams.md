@@ -12,6 +12,6 @@ order: 4
     * Exam I is posted on [Blackboard](https://easternct.blackboard.com/)
 - Exam II
     * [Biopython Practice]({{ site.baseurl }}/data/exams/BiopythonPractice.zip)
+    * [Exam II Practice]({{ site.baseurl }}/data/exams/ExamIIPracticeFall2020.docx)
 {% comment %}
-* [Exam II Practice]({{ site.baseurl }}/data/exams/ExamIIPractice.pdf)
 {% endcomment %}
