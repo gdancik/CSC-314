@@ -23,8 +23,8 @@ exclude_from_nav: false
     * [Dynamic Programming Example (Local Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExampleLocal.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
+* [Hidden Markov Models]({{ site.baseurl }}/data/notes/HMM.pptx)
 {% comment %}
-* [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * More Python
