@@ -36,15 +36,15 @@ exclude_from_nav: false
 * [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Monday, 11/09/20)
 <hr>
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/BLAST_lab.zip) (Due: Wednesday, 12/02/20) 
+* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
+   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
+    * Sign-up (Due Monday, 12/07/20 by 5:00 PM)
+    * Project due date: 10:00 AM on 12/11/20 
 {% comment %}
 * [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-Cov2.ipynb) (Due: Wednesday, 3/25/20)
     * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
     * [Lab #11 solutions]({{ site.baseurl }}/data/hw/DPSolutions.pdf)
 <hr> 
-* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
-   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
-    * Sign-up (Due Wednesday, 4/29/20 by 5:00 PM)
-    * Project due date: 4:00 PM on 5/13/20; submit through [Blackboard](http://easternct.blackboard.com)
 
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Friday, 3/29) 
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
