@@ -24,8 +24,8 @@ exclude_from_nav: false
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/HMM.pptx)
-{% comment %}
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
+{% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * More Python
     * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
