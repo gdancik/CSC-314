@@ -38,7 +38,7 @@ exclude_from_nav: false
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/BLAST_lab.zip) (Due: Wednesday, 12/02/20) 
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
-    * Sign-up (Due Monday, 12/07/20 by 5:00 PM)
+    * Sign-up (Due Monday, 11/30/20 by 5:00 PM)
     * Project due date: 10:00 AM on 12/11/20 
 {% comment %}
 * [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-Cov2.ipynb) (Due: Wednesday, 3/25/20)
