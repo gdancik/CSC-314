@@ -34,8 +34,8 @@ exclude_from_nav: false
 * [Lab #8 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab8.zip) (Due: Wednesday, 10/28/20)
 * [Lab #9 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Wednesday, 11/04/20)
 * [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Monday, 11/09/20)
-<hr>
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/BLAST_lab.zip) (Due: Wednesday, 12/02/20) 
+<hr>
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
     * Sign-up (Due Monday, 11/30/20 by 5:00 PM)
