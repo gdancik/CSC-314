@@ -6,7 +6,9 @@ order: 3
 exclude_from_nav: false
 ---
 
+{% comment %}
 <p style = 'color:red;font-size:104%'>Note: All assignments must be submitted through <a href = "https://easternct.blackboard.com/">Blackboard</a> and are due at the beginning of class (9:00 AM) unless stated otherwise</p>
+{% endcomment %}
 
 
 <style>
@@ -15,9 +17,12 @@ exclude_from_nav: false
 }
 </style>
 
-<div id = 'hidden' class = 'hide' markdown="1">
-* Watch the You Tube videos covering genes, SNPs, and where your genes come from linked at the end of the <a href = "../notes/">Course Introduction</a> notes
+<div id = 'hidden' class = 'nohide' markdown="1">
+* Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
+
+{% comment %}
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 9/9/20) 
+
 * Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/9/2020)
 * For class on Wednesday (9/9/2020), install Python and Jupyter Notebook by following the section "Installing Python and Jupyter Notebook through the Anaconda Distribution" from the Software Installation guide on the [Course Info]({{ site.baseurl }}/info) page. 
 * Lab #2 - DNA and complements (Due: Wednesday, 9/16/2020)
@@ -40,7 +45,6 @@ exclude_from_nav: false
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
     * Sign-up (Due Monday, 11/30/20 by 5:00 PM)
     * Project due date: 10:00 AM on 12/11/20 
-{% comment %}
 * [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-Cov2.ipynb) (Due: Wednesday, 3/25/20)
     * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
     * [Lab #11 solutions]({{ site.baseurl }}/data/hw/DPSolutions.pdf)
@@ -60,7 +64,6 @@ exclude_from_nav: false
 * [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
 
 	* [Gene Prediction Test Sequences]({{ site.baseurl }}/data/hw/test_sequences.txt)  
-{% endcomment %}
 
 
 
@@ -76,6 +79,7 @@ function viewAll() {
 }
 </script>
 
+{% endcomment %}
 
 </div>
 
