@@ -23,7 +23,7 @@ exclude_from_nav: false
 <hr style = 'height:1px; background-color:maroon'>
 
 * Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python next week.
-* [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 2/01/22) 
+* [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 2/02/22) 
 
 
 {% comment %}
