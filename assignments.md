@@ -13,8 +13,13 @@ exclude_from_nav: false
 
 <style>
 .hide {
-  display:none
+  display:none;
 }
+
+ul {
+    margin-bottom: 5px;
+}
+
 </style>
 
 <div id = 'hidden' class = 'nohide' markdown="1">
@@ -26,6 +31,8 @@ exclude_from_nav: false
 <hr style = 'height:1px; background-color:maroon'>
 * [Lab #2A - Python Lab]({{ site.baseurl }}/data/hw/Lab2A.ipynb)
 (Due: Wednesday, 2/09/22; submit through [Blackboard](http://easternct.blackboard.com))
+
+
 {% comment %}
 
 * Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/9/2020)
