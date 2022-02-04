@@ -20,16 +20,17 @@ exclude_from_nav: false
 <div id = 'hidden' class = 'nohide' markdown="1">
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
 
-<hr style = 'height:1px; background-color:maroon'>
 
 * Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python next week.
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 2/01/22) 
-
-
+<hr style = 'height:1px; background-color:maroon'>
+* [Lab #2A - Python Lab]({{ site.baseurl }}/data/hw/Lab2A.ipynb)
+(Due: Wednesday, 2/09/22; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
 
 * Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/9/2020)
 * For class on Wednesday (9/9/2020), install Python and Jupyter Notebook by following the section "Installing Python and Jupyter Notebook through the Anaconda Distribution" from the Software Installation guide on the [Course Info]({{ site.baseurl }}/info) page. 
+
 * Lab #2 - DNA and complements (Due: Wednesday, 9/16/2020)
     * [Lab #2 - DNA and complements]({{ site.baseurl }}/data/hw/Lab2_Complements.pdf)
     * [Lab #2 Notebook]({{ site.baseurl }}/data/hw/Lab2.ipynb) 
