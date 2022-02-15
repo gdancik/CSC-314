@@ -26,12 +26,14 @@ ul {
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
 * Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python next week.
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 2/01/22) 
-<hr style = 'height:1px; background-color:maroon'>
 * [Lab #2A - Python Lab]({{ site.baseurl }}/data/hw/Lab2A.ipynb)
 (Due: Wednesday, 2/09/22; submit through [Blackboard](http://easternct.blackboard.com))
+<hr style = 'height:1px; background-color:maroon'>
 * Lab #2B - DNA and complements (Due: Wednesday, 2/16/2022)
     * [Lab #2B DNA Questions]({{ site.baseurl }}/data/hw/Lab2_Complements.docx)
     * [Lab #2B Notebook]({{ site.baseurl }}/data/hw/Lab2B.ipynb) 
+* [Lab #3 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 2/23/2022) 
+    * [Lab 3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 
 {% comment %}
 
@@ -40,7 +42,6 @@ ul {
 
 * If you haven't done this, for half credit you may Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/16/2022)
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 9/25/2022) 
-* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 9/30/2022) 
 </div>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Friday, 10/09/20) 
 * For Friday's class, install BioPython following the Software installation instructions on the Course Info page
