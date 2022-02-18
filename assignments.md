@@ -28,10 +28,10 @@ ul {
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 2/01/22) 
 * [Lab #2A - Python Lab]({{ site.baseurl }}/data/hw/Lab2A.ipynb)
 (Due: Wednesday, 2/09/22; submit through [Blackboard](http://easternct.blackboard.com))
-<hr style = 'height:1px; background-color:maroon'>
 * Lab #2B - DNA and complements (Due: Wednesday, 2/16/2022)
     * [Lab #2B DNA Questions]({{ site.baseurl }}/data/hw/Lab2_Complements.docx)
     * [Lab #2B Notebook]({{ site.baseurl }}/data/hw/Lab2B.ipynb) 
+<hr style = 'height:1px; background-color:maroon'>
 * [Lab #3 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 2/23/2022) 
     * [Lab 3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 
