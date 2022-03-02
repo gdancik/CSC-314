@@ -31,9 +31,11 @@ ul {
 * Lab #2B - DNA and complements (Due: Wednesday, 2/16/2022)
     * [Lab #2B DNA Questions]({{ site.baseurl }}/data/hw/Lab2_Complements.docx)
     * [Lab #2B Notebook]({{ site.baseurl }}/data/hw/Lab2B.ipynb) 
-<hr style = 'height:1px; background-color:maroon'>
 * [Lab #3 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 2/23/2022) 
     * [Lab 3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
+<hr style = 'height:1px; background-color:maroon'>
+* We are skipping Lab 4, and will come back to it if time allows
+* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Monday, 03/07/22) 
 
 {% comment %}
 
@@ -43,7 +45,6 @@ ul {
 * If you haven't done this, for half credit you may Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/16/2022)
 * [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 9/25/2022) 
 </div>
-* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Friday, 10/09/20) 
 * For Friday's class, install BioPython following the Software installation instructions on the Course Info page
 * [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Monday, 10/19/20) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 10/21/20)
