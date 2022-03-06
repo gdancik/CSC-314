@@ -15,8 +15,8 @@ exclude_from_nav: false
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/dictionary.ipynb)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
-{% comment %}
 * [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
+{% comment %}
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
 * [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
