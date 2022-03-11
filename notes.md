@@ -17,6 +17,7 @@ exclude_from_nav: false
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
+    * [Parsing GenBank]({{ site.baseurl }}/data/notes/5_parsing_genbank.ipynb)
 {% comment %}
 * [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)

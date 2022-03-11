@@ -33,9 +33,10 @@ ul {
     * [Lab #2B Notebook]({{ site.baseurl }}/data/hw/Lab2B.ipynb) 
 * [Lab #3 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 2/23/2022) 
     * [Lab 3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
-<hr style = 'height:1px; background-color:maroon'>
 * We are skipping Lab 4, and will come back to it if time allows
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Monday, 03/07/22) 
+<hr style = 'height:1px; background-color:maroon'>
+* [Lab #6 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 03/23/22; Note that you may not use your grace period for this assignment)
 
 {% comment %}
 
@@ -47,7 +48,6 @@ ul {
 </div>
 * For Friday's class, install BioPython following the Software installation instructions on the Course Info page
 * [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Monday, 10/19/20) 
-* [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 10/21/20)
 * [Lab #8 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab8.zip) (Due: Wednesday, 10/28/20)
 * [Lab #9 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Wednesday, 11/04/20)
 * [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Monday, 11/09/20)
