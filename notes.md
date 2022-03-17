@@ -16,10 +16,11 @@ exclude_from_nav: false
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
-* [Biopython]({{ site.baseurl }}/data/notes/biopython.zip)
-    * [Parsing GenBank]({{ site.baseurl }}/data/notes/5_parsing_genbank.ipynb)
+* [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) | 
+[Parsing GenBank]({{ site.baseurl }}/data/notes/5_parsing_genbank.ipynb)
+* [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
+* [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 {% comment %}
-* [More Python]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
@@ -28,7 +29,6 @@ exclude_from_nav: false
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/HMM.pptx)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
-* [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * More Python
     * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
     * [List Comprehension]({{ site.baseurl }}/data/notes/list_comprehension.py)
