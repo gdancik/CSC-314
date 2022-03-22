@@ -37,6 +37,7 @@ ul {
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Monday, 03/07/22) 
 <hr style = 'height:1px; background-color:maroon'>
 * [Lab #6 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 03/23/22; Note that you may not use your grace period for this assignment)
+* [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28) 
 
 {% comment %}
 
@@ -62,7 +63,6 @@ ul {
     * [Lab #11 solutions]({{ site.baseurl }}/data/hw/DPSolutions.pdf)
 <hr> 
 
-* [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Friday, 3/29) 
 * [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
     * In addition, you must e-mail your Cancer Bio group with your final results, and CC me 
     * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
