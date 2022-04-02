@@ -20,8 +20,8 @@ exclude_from_nav: false
 [Parsing GenBank]({{ site.baseurl }}/data/notes/5_parsing_genbank.ipynb)
 * [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
-{% comment %}
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
+{% comment %}
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
     * [Dynamic Programming Example (Local Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExampleLocal.docx)
