@@ -35,9 +35,10 @@ ul {
     * [Lab 3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 * We are skipping Lab 4, and will come back to it if time allows
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Monday, 03/07/22) 
-<hr style = 'height:1px; background-color:maroon'>
 * [Lab #6 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 03/23/22; Note that you may not use your grace period for this assignment)
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
+<hr style = 'height:1px; background-color:maroon'>
+* [Lab #7 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Wednesday, 04/13/22)
 
 {% comment %}
 
@@ -50,7 +51,6 @@ ul {
 * For Friday's class, install BioPython following the Software installation instructions on the Course Info page
 * [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Monday, 10/19/20) 
 * [Lab #8 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab8.zip) (Due: Wednesday, 10/28/20)
-* [Lab #9 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Wednesday, 11/04/20)
 * [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Monday, 11/09/20)
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/BLAST_lab.zip) (Due: Wednesday, 12/02/20) 
 <hr>
