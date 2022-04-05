@@ -21,9 +21,9 @@ exclude_from_nav: false
 * [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
-{% comment %}
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
+{% comment %}
     * [Dynamic Programming Example (Local Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExampleLocal.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
