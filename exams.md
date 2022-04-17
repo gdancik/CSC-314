@@ -9,6 +9,9 @@ order: 4
 
 - Exam I
     * [Exam I Review]({{ site.baseurl }}/data/exams/ExamIReview.pdf)
+* [Exam II Practice]({{ site.baseurl }}/data/exams/ExamIIPractice.zip)
+
+
 {% comment %}
     * Exam I is posted on [Blackboard](https://easternct.blackboard.com/)
 - Exam II
