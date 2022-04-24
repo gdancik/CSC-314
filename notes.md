@@ -25,8 +25,8 @@ exclude_from_nav: false
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
     * [Dynamic Programming Example (Local Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExampleLocal.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
-{% comment %}
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
+{% comment %}
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/HMM.pptx)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * More Python
