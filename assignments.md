@@ -41,6 +41,10 @@ ul {
 * [Lab #8 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 04/20/22)
 <hr style = 'height:1px; background-color:maroon'>
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
+* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
+   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
+    * Project selection (Blackboard; Due Monday, 05/02/22 by 10:00 AM)
+    * Project due date: 10:00 AM on 05/13/22 (submit through Blackboard) 
 
 {% comment %}
 
@@ -55,10 +59,6 @@ ul {
 * [Lab #8 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab8.zip) (Due: Wednesday, 10/28/20)
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/BLAST_lab.zip) (Due: Wednesday, 12/02/20) 
 <hr>
-* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
-   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
-    * Sign-up (Due Monday, 11/30/20 by 5:00 PM)
-    * Project due date: 10:00 AM on 12/11/20 
 * [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-Cov2.ipynb) (Due: Wednesday, 3/25/20)
     * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
     * [Lab #11 solutions]({{ site.baseurl }}/data/hw/DPSolutions.pdf)

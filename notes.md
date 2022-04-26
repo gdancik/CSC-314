@@ -26,9 +26,9 @@ exclude_from_nav: false
     * [Dynamic Programming Example (Local Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExampleLocal.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
+* [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 {% comment %}
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/HMM.pptx)
-* [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * More Python
     * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
     * [List Comprehension]({{ site.baseurl }}/data/notes/list_comprehension.py)
