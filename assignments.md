@@ -22,7 +22,7 @@ ul {
 
 </style>
 
-<div id = 'hidden' class = 'nohide' markdown="1">
+<div id = 'hidden' class = 'hide' markdown="1">
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
 * Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python next week.
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 2/01/22) 
@@ -40,11 +40,26 @@ ul {
 * [Lab #7 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Wednesday, 04/13/22)
 * [Lab #8 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 04/20/22)
 <hr style = 'height:1px; background-color:maroon'>
+</div>
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
-   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf))
+   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
     * Project selection (Blackboard; Due Monday, 05/02/22 by 10:00 AM)
     * Project due date: 10:00 AM on 05/13/22 (submit through Blackboard) 
+
+
+<br><br>
+<center>
+<div id = 'clicker'>
+<a href = '#' style='font-size:120%' onclick = 'viewAll();'>Click to view all assignments</a>
+<script>
+function viewAll() {
+    document.getElementById('hidden').classList.remove('hide');
+    document.getElementById('clicker').classList.add('hide');
+    document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
+}
+</script>
+
 
 {% comment %}
 
@@ -80,17 +95,10 @@ ul {
 
 
 
-<br><br>
-<center>
-<div id = 'clicker'>
-<a href = '#' style='font-size:120%' onclick = 'viewAll();'>Click to view all assignments</a>
-<script>
-function viewAll() {
-    document.getElementById('hidden').classList.remove('hide');
-    document.getElementById('clicker').classList.add('hide');
-    document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
-}
-</script>
+
+
+
+
 
 {% endcomment %}
 
