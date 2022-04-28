@@ -42,6 +42,7 @@ ul {
 <hr style = 'height:1px; background-color:maroon'>
 </div>
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
+* Group Project Post Survey (Due: Friday, 5/6/22 by 5:00 PM; will be posted on <a href = 'https://easternct.blackboard.com'>Blackboard</a>)
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
     * Project selection (Blackboard; Due Monday, 05/02/22 by 10:00 AM)
@@ -62,45 +63,6 @@ function viewAll() {
 
 
 {% comment %}
-
-* Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/9/2022)
-* For class on Wednesday (9/9/2022), install Python and Jupyter Notebook by following the section "Installing Python and Jupyter Notebook through the Anaconda Distribution" from the Software Installation guide on the [Course Info]({{ site.baseurl }}/info) page. 
-
-* If you haven't done this, for half credit you may Watch the Welcome to the Genomic Revolution Video on Blackboard (Due: Wednesday, 9/16/2022)
-* [Lab #3 - Pathogen Identification (Python Lab)]({{ site.baseurl }}/data/hw/lab3.zip) (Due: Friday, 9/25/2022) 
-</div>
-* For Friday's class, install BioPython following the Software installation instructions on the Course Info page
-* [Lab #6 - Protein DB]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Monday, 10/19/20) 
-* [Lab #8 - Promoter Sequence Analysis]({{ site.baseurl }}/data/hw/lab8.zip) (Due: Wednesday, 10/28/20)
-* [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/BLAST_lab.zip) (Due: Wednesday, 12/02/20) 
-<hr>
-* [Lab #8 - SARS-Cov-2]({{ site.baseurl }}/data/hw/SARS-Cov2.ipynb) (Due: Wednesday, 3/25/20)
-    * [SARS-Cov2.gbk]({{ site.baseurl }}/data/hw/SARS-Cov-2.gbk) 
-    * [Lab #11 solutions]({{ site.baseurl }}/data/hw/DPSolutions.pdf)
-<hr> 
-
-* [Cancer Bio Project]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Sunday, 4/14 at 5:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
-    * In addition, you must e-mail your Cancer Bio group with your final results, and CC me 
-    * [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
-* [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Monday, 5/06)
-| 
-<hr>
-* Lab #11 - GEO ([Assignment]({{ site.baseurl }}/data/hw/GEO.docx) |
-[Preview]({{ site.baseurl }}/data/hw/GEO-preview.docx)) (Due: Wednesday, 4/11)
-* [Cancer Biology - Methods Assignment]({{ site.baseurl }}/data/hw/BioinformaticsGroupAssignment.pdf) (Due: Wednesday, 3/28; submit through [Blackboard](http://easternct.blackboard.com)) 
-	* [c_elegans_orthologs.txt]({{ site.baseurl }}/data/hw/c_elegans_orthologs.txt) 
-* [Cancer Biology Assignment (Individual Write-up)]({{ site.baseurl }}/data/hw/BioinformaticsIndividualAssignment.pdf) (Due: Monday, 4/24; submit through [Blackboard](http://easternct.blackboard.com)) 
-
-	* [Gene Prediction Test Sequences]({{ site.baseurl }}/data/hw/test_sequences.txt)  
-
-
-
-
-
-
-
-
 {% endcomment %}
 
-</div>
 
