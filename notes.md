@@ -7,6 +7,7 @@ exclude_from_nav: false
 ---
  
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
+{% comment %}
 * [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
 * [Python Programming Basics]({{ site.baseurl }}/data/notes/python.zip)
@@ -27,7 +28,6 @@ exclude_from_nav: false
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
-{% comment %}
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/HMM.pptx)
 * More Python
     * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)

@@ -5,7 +5,7 @@ permalink: /info/
 order: 1
 ---
 
-* [Course Syllabus]({{ site.baseurl }}/data/info/csc314-01_spring_2022_syllabus.pdf) 
+* [Course Syllabus]({{ site.baseurl }}/data/info/csc314-01_spring_2023_syllabus.pdf) 
   * [Schedule a meeting during office hours](https://outlook.office365.com/owa/calendar/DrGarrettDancik@myeasternct.onmicrosoft.com/bookings/)
 * [Software installation]({{ site.baseurl }}/data/info/csc314_software.pdf)
 {% comment %}
