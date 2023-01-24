@@ -27,7 +27,7 @@ ul {
 {% endcomment %}
 
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
-* Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python next week.
+* Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in early February.
 {% comment %}
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 2/01/22) 
 * [Lab #2A - Python Lab]({{ site.baseurl }}/data/hw/Lab2A.ipynb)
