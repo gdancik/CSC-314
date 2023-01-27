@@ -20,6 +20,11 @@ ul {
     margin-bottom: 5px;
 }
 
+.due {
+    background-color: yellow
+}
+
+
 </style>
 
 {% comment %}
@@ -28,14 +33,16 @@ ul {
 
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
 * Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in early February.
+<!--<hr style = 'height:1px; background-color:maroon'> -->
+<hr>
+* [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Monday, 01/30/2023) 
 {% comment %}
-* [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Wednesday, 2/01/22) 
 * [Lab #2A - Python Lab]({{ site.baseurl }}/data/hw/Lab2A.ipynb)
-(Due: Wednesday, 2/09/22; submit through [Blackboard](http://easternct.blackboard.com))
-* Lab #2B - DNA and complements (Due: Wednesday, 2/16/2022)
+(Due: Wednesday, 2/09/2023; submit through [Blackboard](http://easternct.blackboard.com))
+* Lab #2B - DNA and complements (Due: Wednesday, 2/16/2023)
     * [Lab #2B DNA Questions]({{ site.baseurl }}/data/hw/Lab2_Complements.docx)
     * [Lab #2B Notebook]({{ site.baseurl }}/data/hw/Lab2B.ipynb) 
-* [Lab #3 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 2/23/2022) 
+* [Lab #3 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 2/23/2023) 
     * [Lab 3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 * We are skipping Lab 4, and will come back to it if time allows
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Monday, 03/07/22) 
@@ -43,7 +50,6 @@ ul {
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
 * [Lab #7 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Wednesday, 04/13/22)
 * [Lab #8 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 04/20/22)
-<hr style = 'height:1px; background-color:maroon'>
 </div>
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
 * Group Project Post Survey (Due: Friday, 5/6/22 by 5:00 PM; will be posted on <a href = 'https://easternct.blackboard.com'>Blackboard</a>)
@@ -68,4 +74,16 @@ function viewAll() {
 
 {% endcomment %}
 
+<script>
+const pattern = RegExp('Due:.*([0-9]{2}/[0-9]+/[0-9]{4})');
+elements = document.getElementsByTagName('li');
 
+for (el of elements) {
+        var res = pattern.exec(el.innerText);
+        if (res != null && res.length >= 2) {
+                if (new Date(res[1]) >= new Date()) {
+                        el.className = 'due';
+                }
+        }
+}
+</script>
