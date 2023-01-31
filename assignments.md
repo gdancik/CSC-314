@@ -34,10 +34,10 @@ ul {
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
 * Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in early February.
 <!--<hr style = 'height:1px; background-color:maroon'> -->
-<hr>
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Monday, 01/30/2023) 
+<hr>
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb)
-(Due: Wednesday, 2/08/2023; submit through [Blackboard](http://easternct.blackboard.com))
+(Due: Wednesday, 02/08/2023; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
 * Lab #2B - DNA and complements (Due: Wednesday, 2/16/2023)
     * [Lab #2B DNA Questions]({{ site.baseurl }}/data/hw/Lab2_Complements.docx)
