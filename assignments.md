@@ -36,9 +36,9 @@ ul {
 <!--<hr style = 'height:1px; background-color:maroon'> -->
 <hr>
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Monday, 01/30/2023) 
+* [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb)
+(Due: Wednesday, 2/08/2023; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
-* [Lab #2A - Python Lab]({{ site.baseurl }}/data/hw/Lab2A.ipynb)
-(Due: Wednesday, 2/09/2023; submit through [Blackboard](http://easternct.blackboard.com))
 * Lab #2B - DNA and complements (Due: Wednesday, 2/16/2023)
     * [Lab #2B DNA Questions]({{ site.baseurl }}/data/hw/Lab2_Complements.docx)
     * [Lab #2B Notebook]({{ site.baseurl }}/data/hw/Lab2B.ipynb) 
