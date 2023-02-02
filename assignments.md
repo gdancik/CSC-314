@@ -38,10 +38,10 @@ ul {
 <hr>
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb)
 (Due: Wednesday, 02/08/2023; submit through [Blackboard](http://easternct.blackboard.com))
+* Lab #3 - DNA and complements (Due: Monday, 02/13/2023, submit through [Blackboard](http://easternct.blackboard.com))
+    * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx)
+    * [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 {% comment %}
-* Lab #2B - DNA and complements (Due: Wednesday, 2/16/2023)
-    * [Lab #2B DNA Questions]({{ site.baseurl }}/data/hw/Lab2_Complements.docx)
-    * [Lab #2B Notebook]({{ site.baseurl }}/data/hw/Lab2B.ipynb) 
 * [Lab #3 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 2/23/2023) 
     * [Lab 3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 * We are skipping Lab 4, and will come back to it if time allows

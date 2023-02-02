@@ -10,6 +10,7 @@ exclude_from_nav: false
 * [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
 * [Python Programming Basics, Part 1]({{ site.baseurl }}/data/notes/python1.zip)
+* [Python Programming Basics, Part 2]({{ site.baseurl }}/data/notes/python2.zip)
 {% comment %}
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
