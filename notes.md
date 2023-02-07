@@ -11,9 +11,9 @@ exclude_from_nav: false
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
 * [Python Programming Basics, Part 1]({{ site.baseurl }}/data/notes/python1.zip)
 * [Python Programming Basics, Part 2]({{ site.baseurl }}/data/notes/python2.zip)
-{% comment %}
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
+{% comment %}
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/dictionary.ipynb)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
