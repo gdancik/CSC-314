@@ -13,8 +13,8 @@ exclude_from_nav: false
 * [Python Programming Basics, Part 2]({{ site.baseurl }}/data/notes/python2.zip)
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
-{% comment %}
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/dictionary.ipynb)
+{% comment %}
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [More Python]({{ site.baseurl }}/data/notes/more_python.zip)

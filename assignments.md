@@ -35,15 +35,15 @@ ul {
 * Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in early February.
 <!--<hr style = 'height:1px; background-color:maroon'> -->
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Monday, 01/30/2023) 
-<hr>
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb)
 (Due: Wednesday, 02/08/2023; submit through [Blackboard](http://easternct.blackboard.com))
 * Lab #3 - DNA and complements (Due: Monday, 02/13/2023, submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx)
     * [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
+<hr>
+* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Tuesday, 02/21/2023 by noon) 
+    * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 {% comment %}
-* [Lab #3 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Wednesday, 2/23/2023) 
-    * [Lab 3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 * We are skipping Lab 4, and will come back to it if time allows
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Monday, 03/07/22) 
 * [Lab #6 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 03/23/22; Note that you may not use your grace period for this assignment)
