@@ -40,9 +40,11 @@ ul {
 * Lab #3 - DNA and complements (Due: Monday, 02/13/2023, submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx)
     * [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
-<hr>
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Tuesday, 02/21/2023 by noon) 
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
+<hr>
+* [Lab #5 - Pathogen Identification]({{ site.baseurl }}/data/hw/lab5.zip) 
+
 {% comment %}
 * We are skipping Lab 4, and will come back to it if time allows
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Monday, 03/07/22) 
