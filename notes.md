@@ -15,8 +15,8 @@ exclude_from_nav: false
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/dictionary.ipynb)
 * [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
-{% comment %}
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
+{% comment %}
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) | 
 [Parsing GenBank]({{ site.baseurl }}/data/notes/5_parsing_genbank.ipynb)
