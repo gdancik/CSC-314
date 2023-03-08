@@ -18,9 +18,8 @@ exclude_from_nav: false
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [Problem-solving with code]({{ site.baseurl }}/data/notes/Algorithms and Coding.ipynb) 
+* [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
 {% comment %}
-* [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) | 
-[Parsing GenBank]({{ site.baseurl }}/data/notes/5_parsing_genbank.ipynb)
 * [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
