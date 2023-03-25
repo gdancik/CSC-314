@@ -46,10 +46,10 @@ ul {
 	* [PDF]({{ site.baseurl }}/data/hw/Lab5_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab5.zip) 
 * [Lab #6 - GenBank]({{ site.baseurl }}/data/hw/Lab6_GenBank.docx) (Due: Friday, 03/10/2023; submit hardcopy in class) 
-<hr>
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 03/22/2023; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Friday, 03/24/2023)
-* [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 03/29/2023)
+<hr>
+* [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 03/29/2023; submit hardcopy in class)
 {% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
 </div>
