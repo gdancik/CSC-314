@@ -9,13 +9,11 @@ order: 4
 
 - Exam I
     * [Exam I Review]({{ site.baseurl }}/data/exams/ExamIReview.pdf)
+- Exam II
+    * [Exam II Practice]({{ site.baseurl }}/data/exams/ExamIIPractice.pdf)
+    * [Coding Practice]({{ site.baseurl }}/data/exams/coding_practice.zip)
 {% comment %}
-* [Exam II Practice]({{ site.baseurl }}/data/exams/ExamIIPractice.zip)
-
-
     * Exam I is posted on [Blackboard](https://easternct.blackboard.com/)
 - Exam II
-    * [Biopython Practice]({{ site.baseurl }}/data/exams/BiopythonPractice.zip)
-    * [Exam II Practice]({{ site.baseurl }}/data/exams/ExamIIPracticeFall2020.docx)
     * Exam II is posted on [Blackboard](https://easternct.blackboard.com/)
 {% endcomment %}
