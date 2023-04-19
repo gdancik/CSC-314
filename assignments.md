@@ -28,8 +28,8 @@ ul {
 </style>
 
 {% comment %}
-<div id = 'hidden' class = 'hide' markdown="1">
 {% endcomment %}
+<div id = 'hidden' class = 'hide' markdown="1">
 
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
 * Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in early February.
@@ -46,11 +46,13 @@ ul {
 	* [PDF]({{ site.baseurl }}/data/hw/Lab5_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab5.zip) 
 * [Lab #6 - GenBank]({{ site.baseurl }}/data/hw/Lab6_GenBank.docx) (Due: Friday, 03/10/2023; submit hardcopy in class) 
+</div>
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 03/22/2023; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Friday, 03/24/2023)
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 03/29/2023; submit hardcopy in class)
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_BLAST_Covid.docx) (Due: Monday, 04/03/2023; submit hardcopy in class; you cannot use your grace period)
 <hr>
+* [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Wednesday, 04/26/2023; submit hardcopy in class)
 {% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
 </div>
@@ -61,6 +63,7 @@ ul {
     * Project selection (Blackboard; Due Monday, 05/02/22 by 10:00 AM)
     * Project due date: 10:00 AM on 05/13/22 (submit through Blackboard) 
 
+{% endcomment %}
 
 <br><br>
 <center>
@@ -75,7 +78,6 @@ function viewAll() {
 </script>
 
 
-{% endcomment %}
 
 <script>
 const pattern = RegExp('Due:.*([0-9]{2}/[0-9]+/[0-9]{4})');
