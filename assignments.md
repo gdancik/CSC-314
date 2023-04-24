@@ -53,15 +53,16 @@ ul {
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_BLAST_Covid.docx) (Due: Monday, 04/03/2023; submit hardcopy in class; you cannot use your grace period)
 <hr>
 * [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Wednesday, 04/26/2023; submit hardcopy in class)
+* <span style = 'background-color:yellow'>Create an account on [https://usegalaxy.org](https://usegalaxy.org).</span>
+* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
+   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
+    * Project selection (Due: Monday, 05/01/2023 by 1:00 PM, answer on [Blackboard](http://easternct.blackboard.com))
+    * Final Project (Due: 4:00 PM on 05/08/2023, submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
 </div>
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
 * Group Project Post Survey (Due: Friday, 5/6/22 by 5:00 PM; will be posted on <a href = 'https://easternct.blackboard.com'>Blackboard</a>)
-* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
-   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
-    * Project selection (Blackboard; Due Monday, 05/02/22 by 10:00 AM)
-    * Project due date: 10:00 AM on 05/13/22 (submit through Blackboard) 
 
 {% endcomment %}
 
