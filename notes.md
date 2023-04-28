@@ -28,8 +28,8 @@ exclude_from_nav: false
 * [Galaxy]({{ site.baseurl }}/data/notes/Galaxy.pdf)
 	* [human_genes_partial.tsv]({{ site.baseurl }}/data/notes/human_genes_partial.tsv)
 	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
-{% comment %}
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
+{% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * More Python
