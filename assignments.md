@@ -10,7 +10,6 @@ exclude_from_nav: false
 <p style = 'color:red;font-size:104%'>Note: All assignments must be submitted through <a href = "https://easternct.blackboard.com/">Blackboard</a> and are due at the beginning of class (9:00 AM) unless stated otherwise</p>
 {% endcomment %}
 
-
 <style>
 .hide {
   display:none;
@@ -28,12 +27,12 @@ ul {
 </style>
 
 {% comment %}
-{% endcomment %}
 <div id = 'hidden' class = 'hide' markdown="1">
-
+{% endcomment %}
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
-* Install the Anaconda Individual Distribution on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in early February.
+* Install the required software on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in late January / early February.
 <!--<hr style = 'height:1px; background-color:maroon'> -->
+{% comment %}
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Monday, 01/30/2023) 
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb)
 (Due: Wednesday, 02/08/2023; submit through [Blackboard](http://easternct.blackboard.com))
@@ -46,7 +45,10 @@ ul {
 	* [PDF]({{ site.baseurl }}/data/hw/Lab5_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab5.zip) 
 * [Lab #6 - GenBank]({{ site.baseurl }}/data/hw/Lab6_GenBank.docx) (Due: Friday, 03/10/2023; submit hardcopy in class) 
+{% comment %}
 </div>
+{% endcomment %}
+
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Wednesday, 03/22/2023; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Friday, 03/24/2023)
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 03/29/2023; submit hardcopy in class)
@@ -58,13 +60,11 @@ ul {
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
     * Project selection (Due: Monday, 05/01/2023 by 1:00 PM, answer on [Blackboard](http://easternct.blackboard.com))
     * Final Project (Due: 4:00 PM on 05/08/2023, submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
 </div>
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
 * Group Project Post Survey (Due: Friday, 5/6/22 by 5:00 PM; will be posted on <a href = 'https://easternct.blackboard.com'>Blackboard</a>)
 
-{% endcomment %}
 
 <br><br>
 <center>
@@ -79,6 +79,7 @@ function viewAll() {
 </script>
 
 
+{% endcomment %}
 
 <script>
 const pattern = RegExp('Due:.*([0-9]{2}/[0-9]+/[0-9]{4})');

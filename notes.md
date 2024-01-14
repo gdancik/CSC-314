@@ -8,6 +8,7 @@ exclude_from_nav: false
  
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
+{% comment %}
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
 * [Python Programming Basics, Part 1]({{ site.baseurl }}/data/notes/python1.zip)
 * [Python Programming Basics, Part 2]({{ site.baseurl }}/data/notes/python2.zip)
@@ -29,7 +30,6 @@ exclude_from_nav: false
 	* [human_genes_partial.tsv]({{ site.baseurl }}/data/notes/human_genes_partial.tsv)
 	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
-{% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * More Python
