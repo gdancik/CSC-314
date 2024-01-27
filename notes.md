@@ -9,9 +9,8 @@ exclude_from_nav: false
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
+* [Python Programming Basics]({{ site.baseurl }}/data/notes/python_basics.zip)
 {% comment %}
-* [Python Programming Basics, Part 1]({{ site.baseurl }}/data/notes/python1.zip)
-* [Python Programming Basics, Part 2]({{ site.baseurl }}/data/notes/python2.zip)
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/dictionary.ipynb)
