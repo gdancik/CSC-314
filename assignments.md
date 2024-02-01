@@ -33,12 +33,12 @@ ul {
 * Install the required software on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in late January / early February.
 <!--<hr style = 'height:1px; background-color:maroon'> -->
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/01/2024) 
-* [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb)
-{% comment %}
-(Due: Tuesday, 02/06/2024; submit through [Blackboard](http://easternct.blackboard.com))
-* Lab #3 - DNA and complements (Due: Monday, 02/13/2024, submit through [Blackboard](http://easternct.blackboard.com))
+<hr>
+* [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Tuesday, 02/06/2024; submit through [Blackboard](http://easternct.blackboard.com))
+* Lab #3 - DNA and complements (Due: Thursday, 02/08/2024, submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx)
     * [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
+{% comment %}
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Tuesday, 02/21/2024 by noon) 
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
@@ -54,7 +54,6 @@ ul {
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Wednesday, 03/29/2024; submit hardcopy in class)
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_BLAST_Covid.docx) (Due: Monday, 04/03/2024; submit hardcopy in class; you cannot use your grace period)
 * [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Wednesday, 04/26/2024; submit hardcopy in class)
-<hr>
 * Lab #12 - Use Galaxy ([https://usegalaxy.org](https://usegalaxy.org)) to find the number of genes on each chromosome, not including pseudogenes. Submit a link to your history on [Blackboard](https://easternct.blackboard.com). Due: Monday, 05/01/2024 by 1:00 PM (you may not use your grace period on this assignment)  
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
