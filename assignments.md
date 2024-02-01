@@ -33,9 +33,9 @@ ul {
 * Install the required software on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in late January / early February.
 <!--<hr style = 'height:1px; background-color:maroon'> -->
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/01/2024) 
-{% comment %}
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb)
-(Due: Wednesday, 02/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
+{% comment %}
+(Due: Tuesday, 02/06/2024; submit through [Blackboard](http://easternct.blackboard.com))
 * Lab #3 - DNA and complements (Due: Monday, 02/13/2024, submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx)
     * [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
