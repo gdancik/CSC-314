@@ -33,13 +33,13 @@ ul {
 * Install the required software on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in late January / early February.
 <!--<hr style = 'height:1px; background-color:maroon'> -->
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/01/2024) 
-<hr>
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Tuesday, 02/06/2024; submit through [Blackboard](http://easternct.blackboard.com))
 * Lab #3 - DNA and complements (Due: Thursday, 02/08/2024, submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx)
     * [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
+<hr>
+* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Thursday, 02/15/2024; submit a hard copy at the beginning of class) 
 {% comment %}
-* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Tuesday, 02/21/2024 by noon) 
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab5_PathogenIdentification.pdf) |
