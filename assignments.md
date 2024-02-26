@@ -37,14 +37,14 @@ ul {
 * Lab #3 - DNA and complements (Due: Thursday, 02/08/2024, submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx)
     * [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
-<hr>
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Thursday, 02/15/2024; submit a hard copy at the beginning of class) 
+<hr>
+* [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Tuesday, 03/05/2024; submit hardcopy in class) 
 {% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab5_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab5.zip) 
-* [Lab #6 - GenBank]({{ site.baseurl }}/data/hw/Lab6_GenBank.docx) (Due: Friday, 03/10/2024; submit hardcopy in class) 
 {% comment %}
 </div>
 {% endcomment %}

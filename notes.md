@@ -13,10 +13,10 @@ exclude_from_nav: false
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/dictionary.ipynb)
-{% comment %}
-* [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
+{% comment %}
+* [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Problem-solving with code]({{ site.baseurl }}/data/notes/Algorithms and Coding.ipynb) 
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
