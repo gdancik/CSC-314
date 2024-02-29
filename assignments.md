@@ -40,6 +40,7 @@ ul {
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Thursday, 02/15/2024; submit a hard copy at the beginning of class) 
 <hr>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Tuesday, 03/05/2024; submit hardcopy in class) 
+* [Lab #6 - GenPept+]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Thursday, 03/07/2024; submit through Blackboard) 
 {% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
