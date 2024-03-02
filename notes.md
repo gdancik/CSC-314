@@ -15,10 +15,10 @@ exclude_from_nav: false
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/dictionary.ipynb)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
-{% comment %}
-* [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Problem-solving with code]({{ site.baseurl }}/data/notes/Algorithms and Coding.ipynb) 
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
+{% comment %}
+* [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
