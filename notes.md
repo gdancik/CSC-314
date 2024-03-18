@@ -17,9 +17,9 @@ exclude_from_nav: false
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [Problem-solving with code]({{ site.baseurl }}/data/notes/Algorithms and Coding.ipynb) 
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
+* [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 {% comment %}
 * [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
-* [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
