@@ -44,7 +44,8 @@ ul {
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Tuesday, 03/26/2024; submit hardcopy in class)
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Tuesday, 04/02/2024; submit hardcopy in class)
 <hr>
-* [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_BLAST_Covid.docx) (Due: Thursday, 04/04/2024; submit hardcopy in class; you cannot use your grace period)
+* [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_BLAST.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
+(Due: Thursday, 04/04/2024; submit hardcopy in class; you cannot use your grace period)
 {% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
