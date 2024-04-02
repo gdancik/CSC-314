@@ -42,8 +42,9 @@ ul {
 * [Lab #6 - GenPept+]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Thursday, 03/07/2024; submit through Blackboard) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Friday, 03/08/2024 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Tuesday, 03/26/2024; submit hardcopy in class)
-<hr>
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Tuesday, 04/02/2024; submit hardcopy in class)
+<hr>
+* [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_BLAST_Covid.docx) (Due: Thursday, 04/04/2024; submit hardcopy in class; you cannot use your grace period)
 {% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
@@ -53,7 +54,6 @@ ul {
 </div>
 {% endcomment %}
 
-* [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_BLAST_Covid.docx) (Due: Monday, 04/03/2024; submit hardcopy in class; you cannot use your grace period)
 * [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Wednesday, 04/26/2024; submit hardcopy in class)
 * Lab #12 - Use Galaxy ([https://usegalaxy.org](https://usegalaxy.org)) to find the number of genes on each chromosome, not including pseudogenes. Submit a link to your history on [Blackboard](https://easternct.blackboard.com). Due: Monday, 05/01/2024 by 1:00 PM (you may not use your grace period on this assignment)  
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
