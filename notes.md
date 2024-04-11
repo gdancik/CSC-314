@@ -22,10 +22,10 @@ exclude_from_nav: false
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
     * [Dynamic Programming Example (Local Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExampleLocal.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
-{% comment %}
-* [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
+{% comment %}
+* [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Galaxy]({{ site.baseurl }}/data/notes/Galaxy.pdf)
 	* [human_genes_partial.tsv]({{ site.baseurl }}/data/notes/human_genes_partial.tsv)
 	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
