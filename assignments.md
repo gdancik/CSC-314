@@ -45,8 +45,9 @@ ul {
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Tuesday, 04/02/2024; submit hardcopy in class)
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 (Due: Thursday, 04/04/2024; submit hardcopy in class; you cannot use your grace period)
-<hr>
 * [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Tuesday, 04/23/2024; submit hardcopy in class)
+<hr>
+* Lab #12 - Use Galaxy ([https://usegalaxy.org](https://usegalaxy.org)) to find the number of genes on each chromosome, not including pseudogenes. Submit a link to your history for both the partial and complete gene lists on [Blackboard](https://easternct.blackboard.com) (Due: Thursday, 04/25/2024)  
 {% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
@@ -56,7 +57,6 @@ ul {
 </div>
 {% endcomment %}
 
-* Lab #12 - Use Galaxy ([https://usegalaxy.org](https://usegalaxy.org)) to find the number of genes on each chromosome, not including pseudogenes. Submit a link to your history on [Blackboard](https://easternct.blackboard.com). Due: Monday, 05/01/2024 by 1:00 PM (you may not use your grace period on this assignment)  
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
     * Project selection (Due: Monday, 05/01/2024 by 1:00 PM, answer on [Blackboard](http://easternct.blackboard.com))
