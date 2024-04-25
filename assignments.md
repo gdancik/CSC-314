@@ -27,8 +27,8 @@ ul {
 </style>
 
 {% comment %}
-<div id = 'hidden' class = 'hide' markdown="1">
 {% endcomment %}
+<div id = 'hidden' class = 'hide' markdown="1">
 * Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
 * Install the required software on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in late January / early February.
 <!--<hr style = 'height:1px; background-color:maroon'> -->
@@ -38,6 +38,7 @@ ul {
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx)
     * [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 * [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) (Due: Thursday, 02/15/2024; submit a hard copy at the beginning of class) 
+</div>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Tuesday, 03/05/2024; submit hardcopy in class) 
 * [Lab #6 - GenPept+]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Thursday, 03/07/2024; submit through Blackboard) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Friday, 03/08/2024 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
@@ -46,27 +47,24 @@ ul {
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 (Due: Thursday, 04/04/2024; submit hardcopy in class; you cannot use your grace period)
 * [Lab #11 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Tuesday, 04/23/2024; submit hardcopy in class)
-<hr>
 * Lab #12 - Use Galaxy ([https://usegalaxy.org](https://usegalaxy.org)) to find the number of genes on each chromosome, not including pseudogenes. Submit a link to your history for both the partial and complete gene lists on [Blackboard](https://easternct.blackboard.com) (Due: Thursday, 04/25/2024)  
+<hr>
+* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
+   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
+    * Project selection (Due: Tuesday, 04/30/2024 by 5:00 PM, answer on [Blackboard](http://easternct.blackboard.com))
+    * Final Project (Due: 4:00 PM on 05/09/2024, submit through [Blackboard](http://easternct.blackboard.com)) 
+
 {% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab5_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab5.zip) 
-{% comment %}
-</div>
-{% endcomment %}
 
-* Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
-   | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
-    * Project selection (Due: Monday, 05/01/2024 by 1:00 PM, answer on [Blackboard](http://easternct.blackboard.com))
-    * Final Project (Due: 4:00 PM on 05/08/2024, submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
-</div>
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
 * Group Project Post Survey (Due: Friday, 5/6/22 by 5:00 PM; will be posted on <a href = 'https://easternct.blackboard.com'>Blackboard</a>)
 
-
+{% endcomment %}
 <br><br>
 <center>
 <div id = 'clicker'>
@@ -79,8 +77,6 @@ function viewAll() {
 }
 </script>
 
-
-{% endcomment %}
 
 <script>
 const pattern = RegExp('Due:.*([0-9]{2}/[0-9]+/[0-9]{4})');
