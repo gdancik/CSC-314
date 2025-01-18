@@ -26,12 +26,10 @@ ul {
 
 </style>
 
-{% comment %}
-{% endcomment %}
-<div id = 'hidden' class = 'hide' markdown="1">
-* Watch the You Tube videos covering genes, SNPs, and where your genes come from linked in the <a href = "../notes/">Course Introduction</a> notes
-* Install the required software on your personal computer, by following the Software installation instructions on the [Course Info](../info/) page. We will begin using Python in late January / early February.
+<div id = 'hidden' class = 'shide' markdown="1">
+* Watch the You Tube videos covering Genes, SNPs, and Where Your Genes Come From linked in the <a href = "../notes/">Course Introduction</a> notes
 <!--<hr style = 'height:1px; background-color:maroon'> -->
+{% comment %}
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/01/2024) 
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Tuesday, 02/06/2024; submit through [Blackboard](http://easternct.blackboard.com))
 * Lab #3 - DNA and complements (Due: Thursday, 02/08/2024, submit through [Blackboard](http://easternct.blackboard.com))
@@ -54,7 +52,6 @@ ul {
     * Project selection (Due: Tuesday, 04/30/2024 by 5:00 PM, answer on [Blackboard](http://easternct.blackboard.com))
     * Final Project (Due: 4:00 PM on 05/09/2024, submit through [Blackboard](http://easternct.blackboard.com)) 
 
-{% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab5_PathogenIdentification.pdf) |
@@ -64,7 +61,6 @@ ul {
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
 * Group Project Post Survey (Due: Friday, 5/6/22 by 5:00 PM; will be posted on <a href = 'https://easternct.blackboard.com'>Blackboard</a>)
 
-{% endcomment %}
 <br><br>
 <center>
 <div id = 'clicker'>
@@ -77,6 +73,7 @@ function viewAll() {
 }
 </script>
 
+{% endcomment %}
 
 <script>
 const pattern = RegExp('Due:.*([0-9]{2}/[0-9]+/[0-9]{4})');
