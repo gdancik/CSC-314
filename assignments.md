@@ -28,9 +28,9 @@ ul {
 
 <div id = 'hidden' class = 'shide' markdown="1">
 * Watch the You Tube videos covering Genes, SNPs, and Where Your Genes Come From linked in the <a href = "../notes/">Course Introduction</a> notes
-<!--<hr style = 'height:1px; background-color:maroon'> -->
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
+* [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/06/2025) 
 {% comment %}
-* [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/01/2024) 
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Tuesday, 02/06/2024; submit through [Blackboard](http://easternct.blackboard.com))
 * Lab #3 - DNA and complements (Due: Thursday, 02/08/2024, submit through [Blackboard](http://easternct.blackboard.com))
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx)
