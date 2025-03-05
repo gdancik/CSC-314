@@ -13,9 +13,10 @@ exclude_from_nav: false
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/5_dictionaries.ipynb)
-{% comment %}
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
+* [More Python -- Functions and File Input]({{ site.baseurl }}/data/notes/more_python.zip)
+{% comment %}
 * [Problem-solving with code]({{ site.baseurl }}/data/notes/Algorithms and Coding.ipynb) 
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
@@ -30,7 +31,6 @@ exclude_from_nav: false
 	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
-* [More Python]({{ site.baseurl }}/data/notes/more_python.zip)
 * [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * More Python
     * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)

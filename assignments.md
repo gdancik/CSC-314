@@ -35,9 +35,12 @@ ul {
 * Lab #4 -- Gene Expression and Python dictionaries (Due: Thursday, 02/20/2025) (turn in a hard copy of each)
 	* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) \| [Lab #4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 </div>
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Thursday, 03/06/2025; submit hardcopy in class) 
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #6 - GenPept+]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Tuesday, 03/11/2025; submit through Blackboard) 
+* Lab #7 - Pathogen Identification (Due: Thursday, 03/13/2025; submit through [Blackboard](http://easternct.blackboard.com))
+	* [PDF]({{ site.baseurl }}/data/hw/Lab7_PathogenIdentification.pdf) |
+	  [Zip file]({{ site.baseurl }}/data/hw/lab7.zip) 
 {% comment %}
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Friday, 03/08/2024 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Tuesday, 03/26/2024; submit hardcopy in class)
@@ -53,9 +56,6 @@ ul {
     * Final Project (Due: 4:00 PM on 05/09/2024, submit through [Blackboard](http://easternct.blackboard.com)) 
 
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
-* Lab #5 - Pathogen Identification (Due: Wednesday, 03/08/2024; submit through [Blackboard](http://easternct.blackboard.com))
-	* [PDF]({{ site.baseurl }}/data/hw/Lab5_PathogenIdentification.pdf) |
-	  [Zip file]({{ site.baseurl }}/data/hw/lab5.zip) 
 
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
