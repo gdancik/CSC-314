@@ -38,7 +38,7 @@ ul {
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Thursday, 03/06/2025; submit hardcopy in class) 
 <hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #6 - GenPept+]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Tuesday, 03/11/2025; submit through Blackboard) 
-* Lab #7 - Pathogen Identification (Due: Thursday, 03/13/2025; submit through [Blackboard](http://easternct.blackboard.com))
+* Lab #7 - Pathogen Identification (Due: Tuesday, 03/25/2025; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab7_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab7.zip) 
 {% comment %}
