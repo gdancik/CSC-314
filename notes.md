@@ -16,9 +16,9 @@ exclude_from_nav: false
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [More Python -- Functions and File Input]({{ site.baseurl }}/data/notes/more_python.zip)
+* [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
 {% comment %}
 * [Problem-solving with code]({{ site.baseurl }}/data/notes/Algorithms and Coding.ipynb) 
-* [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
