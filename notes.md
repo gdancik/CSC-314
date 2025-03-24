@@ -17,10 +17,9 @@ exclude_from_nav: false
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [More Python -- Functions and File Input]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
-{% comment %}
-* [Problem-solving with code]({{ site.baseurl }}/data/notes/Algorithms and Coding.ipynb) 
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
 * [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
+{% comment %}
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
     * [Dynamic Programming Example (Local Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExampleLocal.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
@@ -36,4 +35,8 @@ exclude_from_nav: false
     * [Regular Expressions]({{ site.baseurl }}/data/notes/regular_expression.py)
     * [List Comprehension]({{ site.baseurl }}/data/notes/list_comprehension.py)
 * [AACR Highlights]({{ site.baseurl }}/data/notes/AACR_Highlights_2019.pdf)
+{% endcomment %}
+
+{% comment %}
+* [Problem-solving with code]({{ site.baseurl }}/data/notes/Algorithms and Coding.ipynb) 
 {% endcomment %}
