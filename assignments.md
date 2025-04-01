@@ -41,8 +41,8 @@ ul {
 	* [PDF]({{ site.baseurl }}/data/hw/Lab7_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab7.zip) 
 * [Lab #8 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Thursday, 03/27/2025 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #9 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Tuesday, 04/01/2025; submit hardcopy in class)
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Thursday, 04/03/2025; submit hardcopy in class)
 {% comment %}
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/Lab10_Blast.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
