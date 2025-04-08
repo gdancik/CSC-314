@@ -45,7 +45,7 @@ ul {
 * [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Thursday, 04/03/2025; submit hardcopy in class; note: for question 3(a) and 3(b), use the optimal <i>semi</i>global alignment; this has been corrected in the assignment)
 <hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/Lab11_Blast.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
-(Due: Tuesday, 04/08/2025; submit hardcopy in class; you cannot use your grace period)
+(Due: <strike>Tuesday, 04/08/2025</strike> Thursday, 04/10/2025; submit hardcopy in class; you cannot use your grace period)
 {% comment %}
 * [Lab #12 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Tuesday, 04/23/2024; submit hardcopy in class)
 * Lab #12 - Use Galaxy ([https://usegalaxy.org](https://usegalaxy.org)) to find the number of genes on each chromosome, not including pseudogenes. Submit a link to your history for both the partial and complete gene lists on [Blackboard](https://easternct.blackboard.com) (Due: Thursday, 04/25/2024)  
