@@ -26,7 +26,7 @@ ul {
 
 </style>
 
-<div id = 'hidden' class = 'shide' markdown="1">
+<div id = 'hidden' class = 'hide' markdown="1">
 * Watch the You Tube videos covering Genes, SNPs, and Where Your Genes Come From linked in the <a href = "../notes/">Course Introduction</a> notes
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/06/2025, submit hard copy at beginning of class) 
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Thursday, 02/13/2025) (turn in a hard copy)
@@ -43,11 +43,13 @@ ul {
 * [Lab #8 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Thursday, 03/27/2025 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #9 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Tuesday, 04/01/2025; submit hardcopy in class)
 * [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Thursday, 04/03/2025; submit hardcopy in class; note: for question 3(a) and 3(b), use the optimal <i>semi</i>global alignment; this has been corrected in the assignment)
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/Lab11_Blast.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 (Due: <strike>Tuesday, 04/08/2025</strike> Thursday, 04/10/2025; submit hardcopy in class; you cannot use your grace period)
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
+* Lab #12 - Gene Prediction (Due: Thursday, 04/24/2025; submit through [Blackboard](http://easternct.blackboard.com))
+	* [Gene Prediction]({{ site.baseurl }}/data/hw/GenePrediction.docx) |
+	  [sequences.fasta]({{ site.baseurl }}/data/hw/sequences.fasta) 
 {% comment %}
-* [Lab #12 - HMM]({{ site.baseurl }}/data/hw/HMM_lab.pdf) (Due: Tuesday, 04/23/2024; submit hardcopy in class)
 * Lab #12 - Use Galaxy ([https://usegalaxy.org](https://usegalaxy.org)) to find the number of genes on each chromosome, not including pseudogenes. Submit a link to your history for both the partial and complete gene lists on [Blackboard](https://easternct.blackboard.com) (Due: Thursday, 04/25/2024)  
 <hr>
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
@@ -60,6 +62,7 @@ ul {
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
 * Group Project Post Survey (Due: Friday, 5/6/22 by 5:00 PM; will be posted on <a href = 'https://easternct.blackboard.com'>Blackboard</a>)
+{% endcomment %}
 
 <br><br>
 <center>
@@ -72,8 +75,6 @@ function viewAll() {
     document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
 }
 </script>
-
-{% endcomment %}
 
 <script>
 const pattern = RegExp('Due:.*([0-9]{2}/[0-9]+/[0-9]{4})');
