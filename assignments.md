@@ -45,12 +45,15 @@ ul {
 * [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Thursday, 04/03/2025; submit hardcopy in class; note: for question 3(a) and 3(b), use the optimal <i>semi</i>global alignment; this has been corrected in the assignment)
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/Lab11_Blast.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 (Due: <strike>Tuesday, 04/08/2025</strike> Thursday, 04/10/2025; submit hardcopy in class; you cannot use your grace period)
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * Lab #12 - Gene Prediction (Due: Thursday, 04/24/2025; submit through [Blackboard](http://easternct.blackboard.com))
 	* [Gene Prediction]({{ site.baseurl }}/data/hw/GenePrediction.docx) |
 	  [sequences.fasta]({{ site.baseurl }}/data/hw/sequences.fasta) 
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
+* [Lab #13 - HMM and Galaxy]({{ site.baseurl }}/data/hw/CSC314_Lab13.docx)
+(Due: Thursday, 05/01/2025; submit through [Blackboard](https://easternct.blackboard.com)) 
+	* [human_genes_partial.tsv]({{ site.baseurl }}/data/notes/human_genes_partial.tsv)
+	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
 {% comment %}
-* Lab #12 - Use Galaxy ([https://usegalaxy.org](https://usegalaxy.org)) to find the number of genes on each chromosome, not including pseudogenes. Submit a link to your history for both the partial and complete gene lists on [Blackboard](https://easternct.blackboard.com) (Due: Thursday, 04/25/2024)  
 <hr>
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)

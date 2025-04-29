@@ -24,10 +24,8 @@ exclude_from_nav: false
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
-{% comment %}
 * [Galaxy]({{ site.baseurl }}/data/notes/Galaxy.pdf)
-	* [human_genes_partial.tsv]({{ site.baseurl }}/data/notes/human_genes_partial.tsv)
-	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
+{% comment %}
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
