@@ -48,20 +48,17 @@ ul {
 * Lab #12 - Gene Prediction (Due: Thursday, 04/24/2025; submit through [Blackboard](http://easternct.blackboard.com))
 	* [Gene Prediction]({{ site.baseurl }}/data/hw/GenePrediction.docx) |
 	  [sequences.fasta]({{ site.baseurl }}/data/hw/sequences.fasta) 
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #13 - HMM and Galaxy]({{ site.baseurl }}/data/hw/CSC314_Lab13.docx)
 (Due: Thursday, 05/01/2025; submit through [Blackboard](https://easternct.blackboard.com)) 
 	* [human_genes_partial.tsv]({{ site.baseurl }}/data/notes/human_genes_partial.tsv)
 	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
-{% comment %}
-<hr>
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
-    * Project selection (Due: Tuesday, 04/30/2024 by 5:00 PM, answer on [Blackboard](http://easternct.blackboard.com))
-    * Final Project (Due: 4:00 PM on 05/09/2024, submit through [Blackboard](http://easternct.blackboard.com)) 
-
+    * Project selection (Due: Tuesday, 05/06/2025 by 5:00 PM, answer on [Blackboard](http://easternct.blackboard.com))
+    * Final Project (Due: 4:00 PM on 05/13/2024, submit through [Blackboard](http://easternct.blackboard.com)) 
+{% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
-
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
 * Group Project Post Survey (Due: Friday, 5/6/22 by 5:00 PM; will be posted on <a href = 'https://easternct.blackboard.com'>Blackboard</a>)

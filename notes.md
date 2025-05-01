@@ -25,8 +25,8 @@ exclude_from_nav: false
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
 * [Galaxy]({{ site.baseurl }}/data/notes/Galaxy.pdf)
-{% comment %}
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
+{% comment %}
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * More Python
