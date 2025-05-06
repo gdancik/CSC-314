@@ -55,8 +55,8 @@ ul {
 <hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
-    * Project selection (Due: Tuesday, 05/06/2025 by 5:00 PM, answer on [Blackboard](http://easternct.blackboard.com))
-    * Final Project (Due: 4:00 PM on 05/13/2024, submit through [Blackboard](http://easternct.blackboard.com)) 
+    * Project selection (Due: 5:00 PM on 05/06/2025; answer on [Blackboard](http://easternct.blackboard.com))
+    * Final Project (Due: 4:00 PM on 05/13/2025, submit through [Blackboard](http://easternct.blackboard.com)) 
 {% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
