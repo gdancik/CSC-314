@@ -26,8 +26,9 @@ ul {
 
 </style>
 
-<div id = 'hidden' class = 'hide' markdown="1">
+<div id = 'hidden' class = 'shide' markdown="1">
 * Watch the You Tube videos covering Genes, SNPs, and Where Your Genes Come From linked in the <a href = "../notes/">Course Introduction</a> notes
+{% comment %}
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/06/2025, submit hard copy at beginning of class) 
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Thursday, 02/13/2025) (turn in a hard copy)
 * Lab #3 - DNA and complements (Due: Tuesday, 02/18/2025)) (turn in a hard copy)
@@ -57,12 +58,11 @@ ul {
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
     * Project selection (Due: 5:00 PM on 05/06/2025; answer on [Blackboard](http://easternct.blackboard.com))
     * Final Project (Due: 4:00 PM on 05/13/2025, submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
     * [Lab 4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 * [Cancer Biology Assignment (Proposed Methods)]({{ site.baseurl }}/data/hw/GroupMethods.pdf) (Due: Monday, 3/28; Note that you may not use your grace period for this assignment) 
 * [Cancer Bio Presentation]({{ site.baseurl }}/data/hw/FinalPresentation.pdf) (Due: Wednesday, 05/04/22 by 5:00 PM; Note that you may not use your grace period for this assignment)
 * Group Project Post Survey (Due: Friday, 5/6/22 by 5:00 PM; will be posted on <a href = 'https://easternct.blackboard.com'>Blackboard</a>)
-{% endcomment %}
+
 
 <br><br>
 <center>
@@ -75,6 +75,8 @@ function viewAll() {
     document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
 }
 </script>
+
+{% endcomment %}
 
 <script>
 const pattern = RegExp('Due:.*([0-9]{2}/[0-9]+/[0-9]{4})');

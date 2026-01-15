@@ -8,6 +8,7 @@ exclude_from_nav: false
  
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
+{% comment %}
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
 * [Python Programming Basics]({{ site.baseurl }}/data/notes/python_basics.zip)
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
@@ -26,7 +27,7 @@ exclude_from_nav: false
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
 * [Galaxy]({{ site.baseurl }}/data/notes/Galaxy.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
-{% comment %}
+
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
 * [More Python (LC and RE)]({{ site.baseurl }}/data/notes/lc-and-re-notebook.zip)
 * More Python
