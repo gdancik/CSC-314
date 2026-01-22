@@ -8,6 +8,7 @@ exclude_from_nav: false
  
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
 * [Inheritance]({{ site.baseurl }}/data/notes/Inheritance.pdf)
+	* [Punnett Example (corrected)]({{ site.baseurl }}/data/notes/punnett.pdf)
 {% comment %}
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
 * [Python Programming Basics]({{ site.baseurl }}/data/notes/python_basics.zip)
