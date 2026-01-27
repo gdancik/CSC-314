@@ -28,8 +28,9 @@ ul {
 
 <div id = 'hidden' class = 'shide' markdown="1">
 * Watch the You Tube videos covering Genes, SNPs, and Where Your Genes Come From linked in the <a href = "../notes/">Course Introduction</a> notes
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
+* [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/05/2026, submit hard copy at beginning of class) 
 {% comment %}
-* [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/06/2025, submit hard copy at beginning of class) 
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Thursday, 02/13/2025) (turn in a hard copy)
 * Lab #3 - DNA and complements (Due: Tuesday, 02/18/2025)) (turn in a hard copy)
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx) \| [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
@@ -53,7 +54,6 @@ ul {
 (Due: Thursday, 05/01/2025; submit through [Blackboard](https://easternct.blackboard.com)) 
 	* [human_genes_partial.tsv]({{ site.baseurl }}/data/notes/human_genes_partial.tsv)
 	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
     * Project selection (Due: 5:00 PM on 05/06/2025; answer on [Blackboard](http://easternct.blackboard.com))
