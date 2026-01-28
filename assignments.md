@@ -30,6 +30,7 @@ ul {
 * Watch the You Tube videos covering Genes, SNPs, and Where Your Genes Come From linked in the <a href = "../notes/">Course Introduction</a> notes
 <hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/05/2026, submit hard copy at beginning of class) 
+* Create a [Google](https://accounts.google.com/) account  if you do not have one
 {% comment %}
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Thursday, 02/13/2025) (turn in a hard copy)
 * Lab #3 - DNA and complements (Due: Tuesday, 02/18/2025)) (turn in a hard copy)
