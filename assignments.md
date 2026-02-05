@@ -28,11 +28,11 @@ ul {
 
 <div id = 'hidden' class = 'shide' markdown="1">
 * Watch the You Tube videos covering Genes, SNPs, and Where Your Genes Come From linked in the <a href = "../notes/">Course Introduction</a> notes
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/05/2026, submit hard copy at beginning of class) 
 * Create a [Google](https://accounts.google.com/) account  if you do not have one
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
+* [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Thursday, 02/12/2026) (turn in a hard copy at the beginning of class)
 {% comment %}
-* [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Thursday, 02/13/2025) (turn in a hard copy)
 * Lab #3 - DNA and complements (Due: Tuesday, 02/18/2025)) (turn in a hard copy)
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx) \| [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 * Lab #4 -- Gene Expression and Python dictionaries (Due: Thursday, 02/20/2025) (turn in a hard copy of each)
