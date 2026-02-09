@@ -11,9 +11,9 @@ exclude_from_nav: false
 	* [Punnett Example (corrected)]({{ site.baseurl }}/data/notes/punnett.pdf)
 * [Cells and DNA]({{ site.baseurl }}/data/notes/Cells_and_DNA.pdf)
 * [Python Programming Basics]({{ site.baseurl }}/data/notes/python_basics.zip)
-{% comment %}
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
+{% comment %}
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/5_dictionaries.ipynb)
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
