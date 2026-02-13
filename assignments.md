@@ -32,11 +32,11 @@ ul {
 * Create a [Google](https://accounts.google.com/) account  if you do not have one
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Thursday, 02/12/2026) (turn in a hard copy at the beginning of class)
 <hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
-* Lab #3 - DNA and complements (Due: Tuesday, 02/18/2025) (turn in a hard copy)
+* Lab #3 - DNA and complements (Due: Thursday, 02/19/2026) (turn in hard copies)
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx) \| [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
-{% comment %}
-* Lab #4 -- Gene Expression and Python dictionaries (Due: Thursday, 02/20/2025) (turn in a hard copy of each)
+* Lab #4 -- Gene Expression and Python (Due: Thursday, 02/19/2026) (turn in hard copies)
 	* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) \| [Lab #4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
+{% comment %}
 </div>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Thursday, 03/06/2025; submit hardcopy in class) 
 * [Lab #6 - GenPept+]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Tuesday, 03/11/2025; submit through Blackboard) 
