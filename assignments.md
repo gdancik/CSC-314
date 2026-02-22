@@ -31,11 +31,11 @@ ul {
 * [Lab #1 - OMIM and Inheritance]({{ site.baseurl }}/data/hw/Lab1_OMIM.docx) (Due: Thursday, 02/05/2026, submit hard copy at beginning of class) 
 * Create a [Google](https://accounts.google.com/) account  if you do not have one
 * [Lab #2 - Python Lab]({{ site.baseurl }}/data/hw/Lab2.ipynb) (Due: Thursday, 02/12/2026) (turn in a hard copy at the beginning of class)
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * Lab #3 - DNA and complements (Due: Thursday, 02/19/2026) (turn in hard copies)
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx) \| [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 * Lab #4 -- Gene Expression and Python (Due: Thursday, 02/19/2026) (turn in hard copies)
 	* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) \| [Lab #4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 {% comment %}
 </div>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (Due: Thursday, 03/06/2025; submit hardcopy in class) 
