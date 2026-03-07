@@ -35,9 +35,9 @@ ul {
     * [Lab #3 DNA Questions]({{ site.baseurl }}/data/hw/Lab3_Complements.docx) \| [Lab #3 Notebook]({{ site.baseurl }}/data/hw/Lab3.ipynb) 
 * Lab #4 -- Gene Expression and Python (Due: Thursday, 02/19/2026) (turn in hard copies)
 	* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) \| [Lab #4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 </div>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (submit through [Blackboard](http://easternct.blackboard.com)) (Due: Sunday, 03/01/2026 by noon) 
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 {% comment %}
 * [Lab #6 - GenPept+]({{ site.baseurl }}/data/hw/ProteinDB.docx) (Due: Tuesday, 03/11/2025; submit through Blackboard) 
 * Lab #7 - Pathogen Identification (Due: Tuesday, 03/25/2025; submit through [Blackboard](http://easternct.blackboard.com))

@@ -14,9 +14,9 @@ exclude_from_nav: false
 * [Proteins]({{ site.baseurl }}/data/notes/Proteins.pdf)
 * [Gene Expression]({{ site.baseurl }}/data/notes/FromGeneToProtein.pdf)
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/5_dictionaries.ipynb)
+* [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 {% comment %}
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
-* [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [More Python -- Functions and File Input]({{ site.baseurl }}/data/notes/more_python.zip)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
 * [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
