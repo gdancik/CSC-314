@@ -37,13 +37,13 @@ ul {
 	* [Lab #4 - Gene Expression]({{ site.baseurl }}/data/hw/GeneExpression.docx) \| [Lab #4 Notebook]({{ site.baseurl }}/data/hw/Lab4.ipynb) 
 </div>
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (submit through [Blackboard](http://easternct.blackboard.com)) (Due: Sunday, 03/01/2026 by noon) 
-* [Lab #6 - Additional Tools]({{ site.baseurl }}/data/hw/AdditionalTools.docx) (Due: Tuesday, 03/24/2025; submit through [Blackboard](http://easternct.blackboard.com)) 
-{% comment %}
 <hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
+* [Lab #6 - Additional Tools]({{ site.baseurl }}/data/hw/AdditionalTools.docx) (Due: Tuesday, 03/24/2026; submit through [Blackboard](http://easternct.blackboard.com)) 
+* [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Thursday, 03/26/2026; submit through [Blackboard](http://easternct.blackboard.com))
+{% comment %}
 * Lab #7 - Pathogen Identification (Due: Tuesday, 03/25/2025; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab7_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab7.zip) 
-* [Lab #8 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Thursday, 03/27/2025 by 2:00 PM; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #9 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Tuesday, 04/01/2025; submit hardcopy in class)
 * [Lab #10 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Thursday, 04/03/2025; submit hardcopy in class; note: for question 3(a) and 3(b), use the optimal <i>semi</i>global alignment; this has been corrected in the assignment)
 * [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/Lab11_Blast.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
