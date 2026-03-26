@@ -16,11 +16,11 @@ exclude_from_nav: false
 * [Python Dictionaries]({{ site.baseurl }}/data/notes/5_dictionaries.ipynb)
 * [Selected Databases]({{ site.baseurl }}/data/notes/AdditionalTools.pdf)
 * [Biopython]({{ site.baseurl }}/data/notes/biopython.zip) 
+* [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
+* [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
 {% comment %}
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [More Python -- Functions and File Input]({{ site.baseurl }}/data/notes/more_python.zip)
-* [Sequence Alignments]({{ site.baseurl }}/data/notes/SequenceAlignments.pdf)
-* [Alignment Algorithms]({{ site.baseurl }}/data/notes/AlignmentAlgorithms.pdf)
     * [Dynamic Programming Example (Global Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExample.docx)
     * [Dynamic Programming Example (Local Alignment)]({{ site.baseurl }}/data/notes/DynamicProgrammingExampleLocal.docx)
 * [BLAST and SARS-Cov-2]({{ site.baseurl }}/data/notes/BLAST_SARS-Cov-2.docx)
