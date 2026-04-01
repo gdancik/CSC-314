@@ -39,9 +39,9 @@ ul {
 * [Lab #5 - GenBank]({{ site.baseurl }}/data/hw/Lab5_GenBank.docx) (submit through [Blackboard](http://easternct.blackboard.com)) (Due: Sunday, 03/01/2026 by noon) 
 * [Lab #6 - Additional Tools]({{ site.baseurl }}/data/hw/AdditionalTools.docx) (Due: Tuesday, 03/24/2026; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Thursday, 03/26/2026; submit through [Blackboard](http://easternct.blackboard.com))
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Tuesday, 03/31/2026; submit hardcopy in class)
-* [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Tuesday, 04/07/2026; submit hardcopy in class; note: for question 3(a) and 3(b), use the optimal <i>semi</i>global alignment; this has been corrected in the assignment)
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
+* [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Tuesday, 04/07/2026; submit hardcopy in class)
 {% comment %}
 * Lab #7 - Pathogen Identification (Due: Tuesday, 03/25/2025; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab7_PathogenIdentification.pdf) |
