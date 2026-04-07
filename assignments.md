@@ -43,6 +43,7 @@ ul {
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Tuesday, 04/07/2026; submit hardcopy in class)
 <hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Blast_lab.docx) \| [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) (Due: Thursday, 04/09/2026; submit through [Blackboard](http://easternct.blackboard.com)
+	- Alternate link to lab: [here](https://github.com/gdancik/CSC-314/raw/refs/heads/master/data/hw/BLAST_lab.docx)
 {% comment %}
 * Lab #7 - Pathogen Identification (Due: Tuesday, 03/25/2025; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab7_PathogenIdentification.pdf) |
