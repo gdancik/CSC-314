@@ -40,13 +40,13 @@ ul {
 * [Lab #6 - Additional Tools]({{ site.baseurl }}/data/hw/AdditionalTools.docx) (Due: Tuesday, 03/24/2026; submit through [Blackboard](http://easternct.blackboard.com)) 
 * [Lab #7 - Biopython]({{ site.baseurl }}/data/hw/Biopython_MAOA.zip) (Due: Thursday, 03/26/2026; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab #8 - Pairwise Alignments]({{ site.baseurl }}/data/hw/PairwiseAlignment.docx) (Due: Tuesday, 03/31/2026; submit hardcopy in class)
-<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
 * [Lab #9 - Dynamic Programming]({{ site.baseurl }}/data/hw/DynamicProgramming.docx) (Due: Tuesday, 04/07/2026; submit hardcopy in class)
+<hr style = 'height:1px; background-color:maroon; margin-top:-6px'> 
+* [Lab #10 - BLAST]({{ site.baseurl }}/data/hw/Blast_lab.docx) \| [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) (Due: Thursday, 04/09/2026; submit through [Blackboard](http://easternct.blackboard.com)
 {% comment %}
 * Lab #7 - Pathogen Identification (Due: Tuesday, 03/25/2025; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab7_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab7.zip) 
-* [Lab #11 - BLAST]({{ site.baseurl }}/data/hw/Lab11_Blast.pdf) | [sequences.txt]({{ site.baseurl }}/data/hw/sequences.txt) 
 (Due: <strike>Tuesday, 04/08/2025</strike> Thursday, 04/10/2025; submit hardcopy in class; you cannot use your grace period)
 * Lab #12 - Gene Prediction (Due: Thursday, 04/24/2025; submit through [Blackboard](http://easternct.blackboard.com))
 	* [Gene Prediction]({{ site.baseurl }}/data/hw/GenePrediction.docx) |
