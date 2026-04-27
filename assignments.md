@@ -46,15 +46,15 @@ ul {
 * Lab #11 - Gene Prediction (Due: Thursday, 04/30/2026; submit through [Blackboard](http://easternct.blackboard.com))
 	* [Gene Prediction]({{ site.baseurl }}/data/hw/GenePrediction.docx) |
 	  [sequences.fasta]({{ site.baseurl }}/data/hw/sequences.fasta) 
+* [Lab #12 - Galaxy]({{ site.baseurl }}/data/hw/Galaxy_Lab.docx)
+(Due: Tuesday, 05/05/2026; submit through [Blackboard](https://easternct.blackboard.com)) 
+	* [human_genes_partial.tsv]({{ site.baseurl }}/data/notes/human_genes_partial.tsv)
+	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
 {% comment %}
 * Lab #7 - Pathogen Identification (Due: Tuesday, 03/25/2025; submit through [Blackboard](http://easternct.blackboard.com))
 	* [PDF]({{ site.baseurl }}/data/hw/Lab7_PathogenIdentification.pdf) |
 	  [Zip file]({{ site.baseurl }}/data/hw/lab7.zip) 
 (Due: <strike>Tuesday, 04/08/2025</strike> Thursday, 04/10/2025; submit hardcopy in class; you cannot use your grace period)
-* [Lab #13 - HMM and Galaxy]({{ site.baseurl }}/data/hw/CSC314_Lab13.docx)
-(Due: Thursday, 05/01/2025; submit through [Blackboard](https://easternct.blackboard.com)) 
-	* [human_genes_partial.tsv]({{ site.baseurl }}/data/notes/human_genes_partial.tsv)
-	* [human_genes.tsv]({{ site.baseurl }}/data/notes/human_genes.tsv)
 * Final Project ([Assignment]({{ site.baseurl }}/data/hw/FinalProject.pdf) 
    | [Rubric]({{ site.baseurl }}/data/hw/FinalProjectRubric.pdf)) (You may not use your grace period for the final project)
     * Project selection (Due: 5:00 PM on 05/06/2025; answer on [Blackboard](http://easternct.blackboard.com))

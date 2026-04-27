@@ -23,10 +23,10 @@ exclude_from_nav: false
 * [BLAST Overview]({{ site.baseurl }}/data/notes/BLAST_overview.docx) 
 * [Gene Prediction]({{ site.baseurl }}/data/notes/GenePrediction.pdf)
 * [Hidden Markov Models]({{ site.baseurl }}/data/notes/hmm.pdf)
+* [Galaxy]({{ site.baseurl }}/data/notes/Galaxy.pdf)
 {% comment %}
 * [Bionformatics Databases]({{ site.baseurl }}/data/notes/Databases.pdf)
 * [More Python -- Functions and File Input]({{ site.baseurl }}/data/notes/more_python.zip)
-* [Galaxy]({{ site.baseurl }}/data/notes/Galaxy.pdf)
 * [Wrap Up]({{ site.baseurl }}/data/notes/WrapUp.pdf)
 
 * [Bioinformatics in the Real World]({{ site.baseurl }}/data/notes/RealWorld.pdf)
